@@ -1,0 +1,1137 @@
+[
+    {
+        "name": "Vrihedd+Neophyte",
+        "score": "7",
+        "link": "Vrihedd_Neophyte"
+    },
+    {
+        "name": "Tuirseach+Hunter",
+        "score": "6",
+        "link": "Tuirseach_Hunter"
+    },
+    {
+        "name": "Aedirnian+Mauler",
+        "score": "6",
+        "link": "Aedirnian_Mauler"
+    },
+    {
+        "name": "Wardancer",
+        "score": "10",
+        "link": "Wardancer"
+    },
+    {
+        "name": "Nauzicaa+Sergeant",
+        "score": "6",
+        "link": "Nauzicaa_Sergeant"
+    },
+    {
+        "name": "Alba+Spearman",
+        "score": "5",
+        "link": "Alba_Spearman"
+    },
+    {
+        "name": "An+Craite+Blacksmith",
+        "score": "7",
+        "link": "An_Craite_Blacksmith"
+    },
+    {
+        "name": "Petri's+Philter",
+        "score": "4",
+        "link": "Petri's_Philter"
+    },
+    {
+        "name": "Kaedweni+Knight",
+        "score": "5",
+        "link": "Kaedweni_Knight"
+    },
+    {
+        "name": "Cursed+Knight",
+        "score": "3",
+        "link": "Cursed_Knight"
+    },
+    {
+        "name": "Sentry",
+        "score": "3",
+        "link": "Sentry"
+    },
+    {
+        "name": "Golden+Froth",
+        "score": "3",
+        "link": "Golden_Froth"
+    },
+    {
+        "name": "Dimun+Corsair",
+        "score": "7",
+        "link": "Dimun_Corsair"
+    },
+    {
+        "name": "Crushing+Trap",
+        "score": "2",
+        "link": "Crushing_Trap"
+    },
+    {
+        "name": "Spores",
+        "score": "2",
+        "link": "Spores"
+    },
+    {
+        "name": "Bone+Talisman",
+        "score": "2",
+        "link": "Bone_Talisman"
+    },
+    {
+        "name": "Rock+Barrage",
+        "score": "2",
+        "link": "Rock_Barrage"
+    },
+    {
+        "name": "Heymaey+Protector",
+        "score": "2",
+        "link": "Heymaey_Protector"
+    },
+    {
+        "name": "An+Craite+Raider",
+        "score": "2",
+        "link": "An_Craite_Raider"
+    },
+    {
+        "name": "Siege+Master",
+        "score": "2",
+        "link": "Siege_Master"
+    },
+    {
+        "name": "Peasant+Militia",
+        "score": "2",
+        "link": "Peasant_Militia"
+    },
+    {
+        "name": "An+Craite+Longship",
+        "score": "2",
+        "link": "An_Craite_Longship"
+    },
+    {
+        "name": "Ozzrel",
+        "score": "9",
+        "link": "Ozzrel"
+    },
+    {
+        "name": "Germain+Piquant",
+        "score": "7",
+        "link": "Germain_Piquant"
+    },
+    {
+        "name": "Reinforcements",
+        "score": "8",
+        "link": "Reinforcements"
+    },
+    {
+        "name": "An+Craite+Armorsmith",
+        "score": "7",
+        "link": "An_Craite_Armorsmith"
+    },
+    {
+        "name": "Bekker's+Dark+Mirror",
+        "score": "4",
+        "link": "Bekker's_Dark_Mirror"
+    },
+    {
+        "name": "Parasite",
+        "score": "4",
+        "link": "Parasite"
+    },
+    {
+        "name": "Henry+var+Attre",
+        "score": "2",
+        "link": "Henry_var_Attre"
+    },
+    {
+        "name": "Eibhear+Hattori",
+        "score": "2",
+        "link": "Eibhear_Hattori"
+    },
+    {
+        "name": "Imlerith:+Sabbath",
+        "score": "7",
+        "link": "Imlerith:_Sabbath"
+    },
+    {
+        "name": "Korathi+Heatwave",
+        "score": "4",
+        "link": "Korathi_Heatwave"
+    },
+    {
+        "name": "Reconnaissance",
+        "score": "8",
+        "link": "Reconnaissance"
+    },
+    {
+        "name": "Barbegazi",
+        "score": "7",
+        "link": "Barbegazi"
+    },
+    {
+        "name": "Viper+Witcher",
+        "score": "1",
+        "link": "Viper_Witcher"
+    },
+    {
+        "name": "An+Craite+Warrior",
+        "score": "6",
+        "link": "An_Craite_Warrior"
+    },
+    {
+        "name": "Recruit",
+        "score": "7",
+        "link": "Recruit"
+    },
+    {
+        "name": "Ciaran+aep+Easnillen",
+        "score": "4",
+        "link": "Ciaran_aep_Easnillen"
+    },
+    {
+        "name": "Winch",
+        "score": "7",
+        "link": "Winch"
+    },
+    {
+        "name": "Glorious+Hunt",
+        "score": "6",
+        "link": "Glorious_Hunt"
+    },
+    {
+        "name": "Ornamental+Sword",
+        "score": "6",
+        "link": "Ornamental_Sword"
+    },
+    {
+        "name": "Deithwen+Arbalest",
+        "score": "5",
+        "link": "Deithwen_Arbalest"
+    },
+    {
+        "name": "Tuirseach+Archer",
+        "score": "6",
+        "link": "Tuirseach_Archer"
+    },
+    {
+        "name": "Heymaey+Flaminica",
+        "score": "6",
+        "link": "Heymaey_Flaminica"
+    },
+    {
+        "name": "Panther",
+        "score": "9",
+        "link": "Panther"
+    },
+    {
+        "name": "Elven+Scout",
+        "score": "10",
+        "link": "Elven_Scout"
+    },
+    {
+        "name": "An+Craite+Marauder",
+        "score": "6",
+        "link": "An_Craite_Marauder"
+    },
+    {
+        "name": "Slave+Driver",
+        "score": "10",
+        "link": "Slave_Driver"
+    },
+    {
+        "name": "Stribog+Runestone",
+        "score": "5",
+        "link": "Stribog_Runestone"
+    },
+    {
+        "name": "Shrike",
+        "score": "4",
+        "link": "Shrike"
+    },
+    {
+        "name": "Tormented+Mage",
+        "score": "5",
+        "link": "Tormented_Mage"
+    },
+    {
+        "name": "Dimun+Warship",
+        "score": "6",
+        "link": "Dimun_Warship"
+    },
+    {
+        "name": "Dimun+Pirate",
+        "score": "6",
+        "link": "Dimun_Pirate"
+    },
+    {
+        "name": "Siege+Tower",
+        "score": "6",
+        "link": "Siege_Tower"
+    },
+    {
+        "name": "Miruna",
+        "score": "3",
+        "link": "Miruna"
+    },
+    {
+        "name": "Half-Elf+Hunter",
+        "score": "8",
+        "link": "Half-Elf_Hunter"
+    },
+    {
+        "name": "Slave+Hunter",
+        "score": "6",
+        "link": "Slave_Hunter"
+    },
+    {
+        "name": "Tuirseach+Bearmaster",
+        "score": "9",
+        "link": "Tuirseach_Bearmaster"
+    },
+    {
+        "name": "Geralt:+Professional",
+        "score": "3",
+        "link": "Geralt:_Professional"
+    },
+    {
+        "name": "An+Craite+Whaler",
+        "score": "8",
+        "link": "An_Craite_Whaler"
+    },
+    {
+        "name": "Dol+Blathanna+Bomber",
+        "score": "8",
+        "link": "Dol_Blathanna_Bomber"
+    },
+    {
+        "name": "Elven+Blade",
+        "score": "7",
+        "link": "Elven_Blade"
+    },
+    {
+        "name": "An+Craite+Greatsword",
+        "score": "4",
+        "link": "An_Craite_Greatsword"
+    },
+    {
+        "name": "Dimun+Light+Longship",
+        "score": "7",
+        "link": "Dimun_Light_Longship"
+    },
+    {
+        "name": "Pyrotechnician",
+        "score": "7",
+        "link": "Pyrotechnician"
+    },
+    {
+        "name": "Siege+Support",
+        "score": "7",
+        "link": "Siege_Support"
+    },
+    {
+        "name": "An+Craite+Warcrier",
+        "score": "5",
+        "link": "An_Craite_Warcrier"
+    },
+    {
+        "name": "Champion+of+Hov",
+        "score": "7",
+        "link": "Champion_of_Hov"
+    },
+    {
+        "name": "Bridge+Troll",
+        "score": "5",
+        "link": "Bridge_Troll"
+    },
+    {
+        "name": "Eredin+Breacc+Glas",
+        "score": "6",
+        "link": "Eredin_Breacc_Glas"
+    },
+    {
+        "name": "Monster's+Nest",
+        "score": "8",
+        "link": "Monster's_Nest"
+    },
+    {
+        "name": "Standard+Bearer",
+        "score": "5",
+        "link": "Standard_Bearer"
+    },
+    {
+        "name": "Poor+F'ing+Infantry",
+        "score": "5",
+        "link": "Poor_F'ing_Infantry"
+    },
+    {
+        "name": "Vaedarmakar",
+        "score": "8",
+        "link": "Vaedarmakar"
+    },
+    {
+        "name": "Black+Blood",
+        "score": "4",
+        "link": "Black_Blood"
+    },
+    {
+        "name": "Kaedweni+Cavalry",
+        "score": "3",
+        "link": "Kaedweni_Cavalry"
+    },
+    {
+        "name": "Tuirseach+Skirmisher",
+        "score": "3",
+        "link": "Tuirseach_Skirmisher"
+    },
+    {
+        "name": "Sile+de+Tansarville",
+        "score": "6",
+        "link": "Sile_de_Tansarville"
+    },
+    {
+        "name": "Nilfgaardian+Gate",
+        "score": "4",
+        "link": "Nilfgaardian_Gate"
+    },
+    {
+        "name": "Foltest's+Pride",
+        "score": "4",
+        "link": "Foltest's_Pride"
+    },
+    {
+        "name": "Ointment",
+        "score": "4",
+        "link": "Ointment"
+    },
+    {
+        "name": "Aglais",
+        "score": "10",
+        "link": "Aglais"
+    },
+    {
+        "name": "Hubert+Rejk",
+        "score": "1",
+        "link": "Hubert_Rejk"
+    },
+    {
+        "name": "Master+of+Disguise",
+        "score": "6",
+        "link": "Master_of_Disguise"
+    },
+    {
+        "name": "Elven+Swordmaster",
+        "score": "5",
+        "link": "Elven_Swordmaster"
+    },
+    {
+        "name": "Sabrina's+Specter",
+        "score": "2",
+        "link": "Sabrina's_Specter"
+    },
+    {
+        "name": "Tuirseach+Axeman",
+        "score": "2",
+        "link": "Tuirseach_Axeman"
+    },
+    {
+        "name": "Dol+Blathanna+Bowman",
+        "score": "5",
+        "link": "Dol_Blathanna_Bowman"
+    },
+    {
+        "name": "Hym",
+        "score": "8",
+        "link": "Hym"
+    },
+    {
+        "name": "Dol+Blathanna+Sentry",
+        "score": "1",
+        "link": "Dol_Blathanna_Sentry"
+    },
+    {
+        "name": "Nivellen",
+        "score": "3",
+        "link": "Nivellen"
+    },
+    {
+        "name": "Weavess",
+        "score": "1",
+        "link": "Weavess"
+    },
+    {
+        "name": "Damned+Sorceress",
+        "score": "1",
+        "link": "Damned_Sorceress"
+    },
+    {
+        "name": "Drummond+Queensguard",
+        "score": "1",
+        "link": "Drummond_Queensguard"
+    },
+    {
+        "name": "Sigismund+Dijkstra",
+        "score": "9",
+        "link": "Sigismund_Dijkstra"
+    },
+    {
+        "name": "Mastercrafted+Spear",
+        "score": "3",
+        "link": "Mastercrafted_Spear"
+    },
+    {
+        "name": "Dimun+Pirate+Captain",
+        "score": "1",
+        "link": "Dimun_Pirate_Captain"
+    },
+    {
+        "name": "Lambert:+Swordmaster",
+        "score": "4",
+        "link": "Lambert:_Swordmaster"
+    },
+    {
+        "name": "Wild+Hunt+Drakkar",
+        "score": "1",
+        "link": "Wild_Hunt_Drakkar"
+    },
+    {
+        "name": "Olgierd+von+Everec",
+        "score": "10",
+        "link": "Olgierd_von_Everec"
+    },
+    {
+        "name": "Striga",
+        "score": "8",
+        "link": "Striga"
+    },
+    {
+        "name": "D'ao",
+        "score": "2",
+        "link": "D'ao"
+    },
+    {
+        "name": "Letho:+Kingslayer",
+        "score": "5",
+        "link": "Letho:_Kingslayer"
+    },
+    {
+        "name": "Yennefer:+Conjurer",
+        "score": "5",
+        "link": "Yennefer:_Conjurer"
+    },
+    {
+        "name": "Ulfhedinn",
+        "score": "4",
+        "link": "Ulfhedinn"
+    },
+    {
+        "name": "Jan+Calveit",
+        "score": "9",
+        "link": "Jan_Calveit"
+    },
+    {
+        "name": "Bekker's+Rockslide",
+        "score": "5",
+        "link": "Bekker's_Rockslide"
+    },
+    {
+        "name": "Bran+Tuirseach",
+        "score": "1",
+        "link": "Bran_Tuirseach"
+    },
+    {
+        "name": "Lamia",
+        "score": "4",
+        "link": "Lamia"
+    },
+    {
+        "name": "Weavess:+Incantation",
+        "score": "1",
+        "link": "Weavess:_Incantation"
+    },
+    {
+        "name": "Werecat",
+        "score": "4",
+        "link": "Werecat"
+    },
+    {
+        "name": "Dimun+Smuggler",
+        "score": "4",
+        "link": "Dimun_Smuggler"
+    },
+    {
+        "name": "Blue+Stripe+Scout",
+        "score": "1",
+        "link": "Blue_Stripe_Scout"
+    },
+    {
+        "name": "Mahakam+Volunteers",
+        "score": "1",
+        "link": "Mahakam_Volunteers"
+    },
+    {
+        "name": "Siren",
+        "score": "1",
+        "link": "Siren"
+    },
+    {
+        "name": "Arachas+Drone",
+        "score": "1",
+        "link": "Arachas_Drone"
+    },
+    {
+        "name": "Daerlan+Soldier",
+        "score": "1",
+        "link": "Daerlan_Soldier"
+    },
+    {
+        "name": "Blue+Mountain+Elite",
+        "score": "1",
+        "link": "Blue_Mountain_Elite"
+    },
+    {
+        "name": "Wyvern+Scale+Shield",
+        "score": "3",
+        "link": "Wyvern_Scale_Shield"
+    },
+    {
+        "name": "Slave+Infantry",
+        "score": "3",
+        "link": "Slave_Infantry"
+    },
+    {
+        "name": "Bloody+Flail",
+        "score": "4",
+        "link": "Bloody_Flail"
+    },
+    {
+        "name": "Ice+Troll",
+        "score": "3",
+        "link": "Ice_Troll"
+    },
+    {
+        "name": "Kaedweni+Revenant",
+        "score": "2",
+        "link": "Kaedweni_Revenant"
+    },
+    {
+        "name": "Forktail",
+        "score": "2",
+        "link": "Forktail"
+    },
+    {
+        "name": "Werewolf",
+        "score": "3",
+        "link": "Werewolf"
+    },
+    {
+        "name": "Tuirseach+Veteran",
+        "score": "2",
+        "link": "Tuirseach_Veteran"
+    },
+    {
+        "name": "Ida+Emean+aep+Sivney",
+        "score": "9",
+        "link": "Ida_Emean_aep_Sivney"
+    },
+    {
+        "name": "Zoria+Runestone",
+        "score": "5",
+        "link": "Zoria_Runestone"
+    },
+    {
+        "name": "Drummond+Warmonger",
+        "score": "4",
+        "link": "Drummond_Warmonger"
+    },
+    {
+        "name": "Doppler",
+        "score": "4",
+        "link": "Doppler"
+    },
+    {
+        "name": "Heymaey+Skald",
+        "score": "4",
+        "link": "Heymaey_Skald"
+    },
+    {
+        "name": "Garrison",
+        "score": "7",
+        "link": "Garrison"
+    },
+    {
+        "name": "Cadaverine",
+        "score": "2",
+        "link": "Cadaverine"
+    },
+    {
+        "name": "Morana+Runestone",
+        "score": "5",
+        "link": "Morana_Runestone"
+    },
+    {
+        "name": "Margarita+of+Aretuza",
+        "score": "5",
+        "link": "Margarita_of_Aretuza"
+    },
+    {
+        "name": "Iris+von+Everec",
+        "score": "5",
+        "link": "Iris_von_Everec"
+    },
+    {
+        "name": "Milaen",
+        "score": "5",
+        "link": "Milaen"
+    },
+    {
+        "name": "Vandergrift",
+        "score": "5",
+        "link": "Vandergrift"
+    },
+    {
+        "name": "Vandergrift's+Blade",
+        "score": "6",
+        "link": "Vandergrift's_Blade"
+    },
+    {
+        "name": "Geralt+of+Rivia",
+        "score": "5",
+        "link": "Geralt_of_Rivia"
+    },
+    {
+        "name": "Heymaey+Spearmaiden",
+        "score": "1",
+        "link": "Heymaey_Spearmaiden"
+    },
+    {
+        "name": "Mahakam+Horn",
+        "score": "4",
+        "link": "Mahakam_Horn"
+    },
+    {
+        "name": "Derran",
+        "score": "4",
+        "link": "Derran"
+    },
+    {
+        "name": "Iris'+Companions",
+        "score": "4",
+        "link": "Iris'_Companions"
+    },
+    {
+        "name": "Yoana",
+        "score": "3",
+        "link": "Yoana"
+    },
+    {
+        "name": "Devana+Runestone",
+        "score": "3",
+        "link": "Devana_Runestone"
+    },
+    {
+        "name": "Svanrige+Tuirseach",
+        "score": "3",
+        "link": "Svanrige_Tuirseach"
+    },
+    {
+        "name": "Vincent+Meis",
+        "score": "3",
+        "link": "Vincent_Meis"
+    },
+    {
+        "name": "Alzur's+Double+Cross",
+        "score": "8",
+        "link": "Alzur's_Double_Cross"
+    },
+    {
+        "name": "Heymaey+Herbalist",
+        "score": "4",
+        "link": "Heymaey_Herbalist"
+    },
+    {
+        "name": "Paulie+Dahlberg",
+        "score": "2",
+        "link": "Paulie_Dahlberg"
+    },
+    {
+        "name": "Dazhbog+Runestone",
+        "score": "6",
+        "link": "Dazhbog_Runestone"
+    },
+    {
+        "name": "Ruehin",
+        "score": "2",
+        "link": "Ruehin"
+    },
+    {
+        "name": "False+Ciri",
+        "score": "3",
+        "link": "False_Ciri"
+    },
+    {
+        "name": "Vrygheff",
+        "score": "7",
+        "link": "Vrygheff"
+    },
+    {
+        "name": "Isengrim:+Outlaw",
+        "score": "8",
+        "link": "Isengrim:_Outlaw"
+    },
+    {
+        "name": "Drummond+Shieldmaid",
+        "score": "1",
+        "link": "Drummond_Shieldmaid"
+    },
+    {
+        "name": "Aguara:+True+Form",
+        "score": "7",
+        "link": "Aguara:_True_Form"
+    },
+    {
+        "name": "Whispess",
+        "score": "1",
+        "link": "Whispess"
+    },
+    {
+        "name": "Avallac'h:+Sage",
+        "score": "7",
+        "link": "Avallac'h:_Sage"
+    },
+    {
+        "name": "Dandelion:+Poet",
+        "score": "10",
+        "link": "Dandelion:_Poet"
+    },
+    {
+        "name": "Blue+Stripe+Commando",
+        "score": "1",
+        "link": "Blue_Stripe_Commando"
+    },
+    {
+        "name": "Moonlight",
+        "score": "1",
+        "link": "Moonlight"
+    },
+    {
+        "name": "Golyat",
+        "score": "7",
+        "link": "Golyat"
+    },
+    {
+        "name": "Hanmarvyn's+Dream",
+        "score": "8",
+        "link": "Hanmarvyn's_Dream"
+    },
+    {
+        "name": "Draig+Bon-Dhu",
+        "score": "1",
+        "link": "Draig_Bon-Dhu"
+    },
+    {
+        "name": "Iorveth:+Meditation",
+        "score": "4",
+        "link": "Iorveth:_Meditation"
+    },
+    {
+        "name": "Zoltan:+Scoundrel",
+        "score": "6",
+        "link": "Zoltan:_Scoundrel"
+    },
+    {
+        "name": "Sihil",
+        "score": "4",
+        "link": "Sihil"
+    },
+    {
+        "name": "Princess+Adda",
+        "score": "7",
+        "link": "Princess_Adda"
+    },
+    {
+        "name": "Shilard",
+        "score": "6",
+        "link": "Shilard"
+    },
+    {
+        "name": "Hjalmar+an+Craite",
+        "score": "6",
+        "link": "Hjalmar_an_Craite"
+    },
+    {
+        "name": "Trial+of+the+Grasses",
+        "score": "3",
+        "link": "Trial_of_the_Grasses"
+    },
+    {
+        "name": "Vesemir:+Mentor",
+        "score": "3",
+        "link": "Vesemir:_Mentor"
+    },
+    {
+        "name": "Caranthir+ar-Feiniel",
+        "score": "4",
+        "link": "Caranthir_ar-Feiniel"
+    },
+    {
+        "name": "Triss:+Butterflies",
+        "score": "3",
+        "link": "Triss:_Butterflies"
+    },
+    {
+        "name": "Triss:+Telekinesis",
+        "score": "4",
+        "link": "Triss:_Telekinesis"
+    },
+    {
+        "name": "Xavier+Moran",
+        "score": "3",
+        "link": "Xavier_Moran"
+    },
+    {
+        "name": "Vreemde",
+        "score": "4",
+        "link": "Vreemde"
+    },
+    {
+        "name": "Pavko+Gale",
+        "score": "7",
+        "link": "Pavko_Gale"
+    },
+    {
+        "name": "Dandelion:+Vainglory",
+        "score": "3",
+        "link": "Dandelion:_Vainglory"
+    },
+    {
+        "name": "Princess+Pavetta",
+        "score": "1",
+        "link": "Princess_Pavetta"
+    },
+    {
+        "name": "Phoenix",
+        "score": "2",
+        "link": "Phoenix"
+    },
+    {
+        "name": "Shupe's+Day+Off",
+        "score": "10",
+        "link": "Shupe's_Day_Off"
+    },
+    {
+        "name": "Ciri:+Nova",
+        "score": "1",
+        "link": "Ciri:_Nova"
+    },
+    {
+        "name": "Morenn:+Forest+Child",
+        "score": "3",
+        "link": "Morenn:_Forest_Child"
+    },
+    {
+        "name": "Brewess:+Ritual",
+        "score": "2",
+        "link": "Brewess:_Ritual"
+    },
+    {
+        "name": "Ihuarraquax",
+        "score": "2",
+        "link": "Ihuarraquax"
+    },
+    {
+        "name": "Geralt:+Yrden",
+        "score": "2",
+        "link": "Geralt:_Yrden"
+    },
+    {
+        "name": "Cerys+an+Craite",
+        "score": "2",
+        "link": "Cerys_an_Craite"
+    },
+    {
+        "name": "Francesca+Findabair",
+        "score": "7",
+        "link": "Francesca_Findabair"
+    },
+    {
+        "name": "Schirru",
+        "score": "7",
+        "link": "Schirru"
+    },
+    {
+        "name": "Cerys:+Fearless",
+        "score": "2",
+        "link": "Cerys:_Fearless"
+    },
+    {
+        "name": "Whispering+Hillock",
+        "score": "6",
+        "link": "Whispering_Hillock"
+    },
+    {
+        "name": "King+Henselt",
+        "score": "1",
+        "link": "King_Henselt"
+    },
+    {
+        "name": "Isengrim+Faoiltairna",
+        "score": "3",
+        "link": "Isengrim_Faoiltairna"
+    },
+    {
+        "name": "Dragon's+Dream",
+        "score": "1",
+        "link": "Dragon's_Dream"
+    },
+    {
+        "name": "Maerolorn",
+        "score": "1",
+        "link": "Maerolorn"
+    },
+    {
+        "name": "Kiyan",
+        "score": "6",
+        "link": "Kiyan"
+    },
+    {
+        "name": "Ceallach+Dyffryn",
+        "score": "6",
+        "link": "Ceallach_Dyffryn"
+    },
+    {
+        "name": "Eist+Tuirseach",
+        "score": "5",
+        "link": "Eist_Tuirseach"
+    },
+    {
+        "name": "Seltkirk+of+Gulet",
+        "score": "10",
+        "link": "Seltkirk_of_Gulet"
+    },
+    {
+        "name": "Ronvid+the+Incessant",
+        "score": "6",
+        "link": "Ronvid_the_Incessant"
+    },
+    {
+        "name": "Giant+Boar",
+        "score": "3",
+        "link": "Giant_Boar"
+    },
+    {
+        "name": "Alpha+Werewolf",
+        "score": "4",
+        "link": "Alpha_Werewolf"
+    },
+    {
+        "name": "Ithlinne+Aegli",
+        "score": "2",
+        "link": "Ithlinne_Aegli"
+    },
+    {
+        "name": "Stregobor",
+        "score": "3",
+        "link": "Stregobor"
+    },
+    {
+        "name": "Dorregaray+of+Vole",
+        "score": "2",
+        "link": "Dorregaray_of_Vole"
+    },
+    {
+        "name": "Pit+Trap",
+        "score": "2",
+        "link": "Pit_Trap"
+    },
+    {
+        "name": "Brewess",
+        "score": "1",
+        "link": "Brewess"
+    },
+    {
+        "name": "Cahir+Dyffryn",
+        "score": "8",
+        "link": "Cahir_Dyffryn"
+    },
+    {
+        "name": "Eskel:+Pathfinder",
+        "score": "7",
+        "link": "Eskel:_Pathfinder"
+    },
+    {
+        "name": "Aguara",
+        "score": "6",
+        "link": "Aguara"
+    },
+    {
+        "name": "Uma's+Curse",
+        "score": "6",
+        "link": "Uma's_Curse"
+    },
+    {
+        "name": "Yennefer:+Enchantress",
+        "score": "3",
+        "link": "Yennefer:_Enchantress"
+    },
+    {
+        "name": "Olaf",
+        "score": "3",
+        "link": "Olaf"
+    },
+    {
+        "name": "Whispess:+Tribute",
+        "score": "2",
+        "link": "Whispess:_Tribute"
+    },
+    {
+        "name": "Rainfarn+of+Attre",
+        "score": "3",
+        "link": "Rainfarn_of_Attre"
+    },
+    {
+        "name": "Saesenthessis:+Blaze",
+        "score": "2",
+        "link": "Saesenthessis:_Blaze"
+    },
+    {
+        "name": "Arachas+Queen",
+        "score": "1",
+        "link": "Arachas_Queen"
+    },
+    {
+        "name": "Yennefer:+Necromancer",
+        "score": "3",
+        "link": "Yennefer:_Necromancer"
+    },
+    {
+        "name": "King+Radovid+V",
+        "score": "6",
+        "link": "King_Radovid_V"
+    },
+    {
+        "name": "Filavandrel",
+        "score": "5",
+        "link": "Filavandrel"
+    },
+    {
+        "name": "King+Foltest",
+        "score": "4",
+        "link": "King_Foltest"
+    },
+    {
+        "name": "Roche:+Merciless",
+        "score": "2",
+        "link": "Roche:_Merciless"
+    },
+    {
+        "name": "Eithne",
+        "score": "8",
+        "link": "Eithne"
+    },
+    {
+        "name": "Usurper",
+        "score": "9",
+        "link": "Usurper"
+    }
+]
