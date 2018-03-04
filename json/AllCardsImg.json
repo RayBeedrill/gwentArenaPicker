@@ -1,0 +1,2385 @@
+{
+    "bronse": [
+        {
+            "name": "Slave+Driver",
+            "score": "10",
+            "link": "Slave_Driver"
+        },
+        {
+            "name": "Elven+Scout",
+            "score": "10",
+            "link": "Elven_Scout"
+        },
+        {
+            "name": "Wardancer",
+            "score": "10",
+            "link": "Wardancer"
+        },
+        {
+            "name": "Cyclops",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/cyclops-1-medium.png"
+        },
+        {
+            "name": "Ghoul",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/ghoul-1-medium.png"
+        },
+        {
+            "name": "Tuirseach+Bearmaster",
+            "score": "9",
+            "link": "Tuirseach_Bearmaster"
+        },
+        {
+            "name": "Panther",
+            "score": "9",
+            "link": "Panther"
+        },
+        {
+            "name": "Archespore",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/archespore-1-medium.png"
+        },
+        {
+            "name": "Vrihedd+Officer",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/vrihedd-officer-1-medium.png"
+        },
+        {
+            "name": "Battering+Ram",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/battering-ram-1-medium.png"
+        },
+        {
+            "name": "Half-Elf+Hunter",
+            "score": "8",
+            "link": "Half-Elf_Hunter"
+        },
+        {
+            "name": "An+Craite+Whaler",
+            "score": "8",
+            "link": "An_Craite_Whaler"
+        },
+        {
+            "name": "Reconnaissance",
+            "score": "8",
+            "link": "Reconnaissance"
+        },
+        {
+            "name": "Dol+Blathanna+Bomber",
+            "score": "8",
+            "link": "Dol_Blathanna_Bomber"
+        },
+        {
+            "name": "Redanian+Knight-Elect",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/redanian-knight-elect-1-medium.png"
+        },
+        {
+            "name": "Siege+Support",
+            "score": "7",
+            "link": "Siege_Support"
+        },
+        {
+            "name": "Reinforced+Trebuchet",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/reinforced-trebuchet-1-medium.png"
+        },
+        {
+            "name": "Savage+Bear",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/savage-bear-1-medium.png"
+        },
+        {
+            "name": "Vrihedd+Dragoon",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/vrihedd-dragoon-1-medium.png"
+        },
+        {
+            "name": "Dimun+Light+Longship",
+            "score": "7",
+            "link": "Dimun_Light_Longship"
+        },
+        {
+            "name": "Alzur's+Thunder",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/alzur-s-thunder-1-medium.png"
+        },
+        {
+            "name": "Elven+Blade",
+            "score": "7",
+            "link": "Elven_Blade"
+        },
+        {
+            "name": "First+Light",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/first-light-1-medium.png"
+        },
+        {
+            "name": "Vicovaro+Medic",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/vicovaro-medic-1-medium.png"
+        },
+        {
+            "name": "Recruit",
+            "score": "7",
+            "link": "Recruit"
+        },
+        {
+            "name": "Pyrotechnician",
+            "score": "7",
+            "link": "Pyrotechnician"
+        },
+        {
+            "name": "Dwarven+Skirmisher",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/dwarven-skirmisher-1-medium.png"
+        },
+        {
+            "name": "Barbegazi",
+            "score": "7",
+            "link": "Barbegazi"
+        },
+        {
+            "name": "Dol+Blathanna+Archer",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/dol-blathanna-archer-1-medium.png"
+        },
+        {
+            "name": "Hawker+Smuggler",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/hawker-smuggler-1-medium.png"
+        },
+        {
+            "name": "An+Craite+Armorsmith",
+            "score": "7",
+            "link": "An_Craite_Armorsmith"
+        },
+        {
+            "name": "Alba+Armored+Cavalry",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/alba-armored-cavalry-1-medium.png"
+        },
+        {
+            "name": "Dwarven+Mercenary",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/dwarven-mercenary-1-medium.png"
+        },
+        {
+            "name": "An+Craite+Blacksmith",
+            "score": "7",
+            "link": "An_Craite_Blacksmith"
+        },
+        {
+            "name": "Vrihedd+Neophyte",
+            "score": "7",
+            "link": "Vrihedd_Neophyte"
+        },
+        {
+            "name": "Nilfgaardian+Knight",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/nilfgaardian-knight-1-medium.png"
+        },
+        {
+            "name": "Mahakam+Ale",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/mahakam-ale-1-medium.png"
+        },
+        {
+            "name": "Winch",
+            "score": "7",
+            "link": "Winch"
+        },
+        {
+            "name": "Dimun+Corsair",
+            "score": "7",
+            "link": "Dimun_Corsair"
+        },
+        {
+            "name": "Hawker+Support",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/hawker-support-1-medium.png"
+        },
+        {
+            "name": "Heymaey+Flaminica",
+            "score": "6",
+            "link": "Heymaey_Flaminica"
+        },
+        {
+            "name": "Vrihedd+Sappers",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/vrihedd-sappers-1-medium.png"
+        },
+        {
+            "name": "Elven+Mercenary",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/elven-mercenary-1-medium.png"
+        },
+        {
+            "name": "Priestess+of+Freya",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/priestess-of-freya-1-medium.png"
+        },
+        {
+            "name": "Mahakam+Guard",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/mahakam-guard-1-medium.png"
+        },
+        {
+            "name": "Ekimmara",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/ekimmara-1-medium.png"
+        },
+        {
+            "name": "Hawker+Healer",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/hawker-healer-1-medium.png"
+        },
+        {
+            "name": "Temerian+Drummer",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/temerian-drummer-1-medium.png"
+        },
+        {
+            "name": "Wyvern",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/wyvern-1-medium.png"
+        },
+        {
+            "name": "Tuirseach+Hunter",
+            "score": "6",
+            "link": "Tuirseach_Hunter"
+        },
+        {
+            "name": "Combat+Engineer",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/combat-engineer-1-medium.png"
+        },
+        {
+            "name": "Cockatrice",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/cockatrice-1-medium.png"
+        },
+        {
+            "name": "Wild+Hunt+Warrior",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/wild-hunt-warrior-1-medium.png"
+        },
+        {
+            "name": "Nauzicaa+Sergeant",
+            "score": "6",
+            "link": "Nauzicaa_Sergeant"
+        },
+        {
+            "name": "Dimun+Warship",
+            "score": "6",
+            "link": "Dimun_Warship"
+        },
+        {
+            "name": "Aedirnian+Mauler",
+            "score": "6",
+            "link": "Aedirnian_Mauler"
+        },
+        {
+            "name": "An+Craite+Marauder",
+            "score": "6",
+            "link": "An_Craite_Marauder"
+        },
+        {
+            "name": "Siege+Tower",
+            "score": "6",
+            "link": "Siege_Tower"
+        },
+        {
+            "name": "Tuirseach+Archer",
+            "score": "6",
+            "link": "Tuirseach_Archer"
+        },
+        {
+            "name": "Farseer",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/farseer-1-medium.png"
+        },
+        {
+            "name": "Slave+Hunter",
+            "score": "6",
+            "link": "Slave_Hunter"
+        },
+        {
+            "name": "Kaedweni+Sergeant",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/kaedweni-sergeant-1-medium.png"
+        },
+        {
+            "name": "Archgriffin",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/archgriffin-1-medium.png"
+        },
+        {
+            "name": "Fiend",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/fiend-1-medium.png"
+        },
+        {
+            "name": "Dimun+Pirate",
+            "score": "6",
+            "link": "Dimun_Pirate"
+        },
+        {
+            "name": "Master+of+Disguise",
+            "score": "6",
+            "link": "Master_of_Disguise"
+        },
+        {
+            "name": "An+Craite+Warrior",
+            "score": "6",
+            "link": "An_Craite_Warrior"
+        },
+        {
+            "name": "Alchemist",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/alchemist-1-medium.png"
+        },
+        {
+            "name": "Vrihedd+Brigade",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/vrihedd-brigade-1-medium.png"
+        },
+        {
+            "name": "Thunderbolt",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/thunderbolt-potion-1-medium.png"
+        },
+        {
+            "name": "Assassin",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/assassin-1-medium.png"
+        },
+        {
+            "name": "Sage",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/sage-1-medium.png"
+        },
+        {
+            "name": "Tormented+Mage",
+            "score": "5",
+            "link": "Tormented_Mage"
+        },
+        {
+            "name": "An+Craite+Warcrier",
+            "score": "5",
+            "link": "An_Craite_Warcrier"
+        },
+        {
+            "name": "Fire+Scorpion",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/fire-scorpion-1-medium.png"
+        },
+        {
+            "name": "Elven+Swordmaster",
+            "score": "5",
+            "link": "Elven_Swordmaster"
+        },
+        {
+            "name": "Mahakam+Defender",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/mahakam-defender-1-medium.png"
+        },
+        {
+            "name": "Poor+F'ing+Infantry",
+            "score": "5",
+            "link": "Poor_F'ing_Infantry"
+        },
+        {
+            "name": "Redanian+Knight",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/redanian-knight-1-medium.png"
+        },
+        {
+            "name": "Drowner",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/drowner-1-medium.png"
+        },
+        {
+            "name": "Dol+Blathanna+Bowman",
+            "score": "5",
+            "link": "Dol_Blathanna_Bowman"
+        },
+        {
+            "name": "Deithwen+Arbalest",
+            "score": "5",
+            "link": "Deithwen_Arbalest"
+        },
+        {
+            "name": "Standard+Bearer",
+            "score": "5",
+            "link": "Standard_Bearer"
+        },
+        {
+            "name": "Kaedweni+Knight",
+            "score": "5",
+            "link": "Kaedweni_Knight"
+        },
+        {
+            "name": "Alba+Spearman",
+            "score": "5",
+            "link": "Alba_Spearman"
+        },
+        {
+            "name": "Tridam+Infantry",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/tridam-infantryman-1-medium.png"
+        },
+        {
+            "name": "Bridge+Troll",
+            "score": "5",
+            "link": "Bridge_Troll"
+        },
+        {
+            "name": "Rot+Tosser",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/rot-tosser-1-medium.png"
+        },
+        {
+            "name": "Swallow",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/swallow-potion-1-medium.png"
+        },
+        {
+            "name": "Petri's+Philter",
+            "score": "4",
+            "link": "Petri's_Philter"
+        },
+        {
+            "name": "Shrike",
+            "score": "4",
+            "link": "Shrike"
+        },
+        {
+            "name": "Ointment",
+            "score": "4",
+            "link": "Ointment"
+        },
+        {
+            "name": "Doppler",
+            "score": "4",
+            "link": "Doppler"
+        },
+        {
+            "name": "Vicovaro+Novice",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/vicovaro-novice-1-medium.png"
+        },
+        {
+            "name": "Emissary",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/emissary-1-medium.png"
+        },
+        {
+            "name": "Heymaey+Herbalist",
+            "score": "4",
+            "link": "Heymaey_Herbalist"
+        },
+        {
+            "name": "Werecat",
+            "score": "4",
+            "link": "Werecat"
+        },
+        {
+            "name": "Lamia",
+            "score": "4",
+            "link": "Lamia"
+        },
+        {
+            "name": "Reinforced+Ballista",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/reinforced-ballista-1-medium.png"
+        },
+        {
+            "name": "Mahakam+Marauder",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/mahakam-marauder-1-medium.png"
+        },
+        {
+            "name": "Redanian+Elite",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/redanian-elite-1-medium.png"
+        },
+        {
+            "name": "Raging+Berserker",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/raging-berserker-1-medium.png"
+        },
+        {
+            "name": "Drummond+Warmonger",
+            "score": "4",
+            "link": "Drummond_Warmonger"
+        },
+        {
+            "name": "An+Craite+Greatsword",
+            "score": "4",
+            "link": "An_Craite_Greatsword"
+        },
+        {
+            "name": "Berserker+Marauder",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/berserker-marauder-1-medium.png"
+        },
+        {
+            "name": "Heymaey+Skald",
+            "score": "4",
+            "link": "Heymaey_Skald"
+        },
+        {
+            "name": "Ancient+Foglet",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/ancient-foglet-1-medium.png"
+        },
+        {
+            "name": "Wild+Hunt+Rider",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/wild-hunt-rider-3-medium.png"
+        },
+        {
+            "name": "Infiltrator",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/infiltrator-1-medium.png"
+        },
+        {
+            "name": "Dimun+Smuggler",
+            "score": "4",
+            "link": "Dimun_Smuggler"
+        },
+        {
+            "name": "Alpha+Werewolf",
+            "score": "4",
+            "link": "Alpha_Werewolf"
+        },
+        {
+            "name": "Bloody+Flail",
+            "score": "4",
+            "link": "Bloody_Flail"
+        },
+        {
+            "name": "Mardroeme",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/mardroeme-1-medium.png"
+        },
+        {
+            "name": "Cursed+Knight",
+            "score": "3",
+            "link": "Cursed_Knight"
+        },
+        {
+            "name": "Wyvern+Scale+Shield",
+            "score": "3",
+            "link": "Wyvern_Scale_Shield"
+        },
+        {
+            "name": "Lacerate",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/lacerate-1-medium.png"
+        },
+        {
+            "name": "Arachas+Venom",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/arachas-venom-1-medium.png"
+        },
+        {
+            "name": "Crow's+Eye",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/crow-s-eye-1-medium.png"
+        },
+        {
+            "name": "Golden+Froth",
+            "score": "3",
+            "link": "Golden_Froth"
+        },
+        {
+            "name": "Magne+Division",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/magne-division-1-medium.png"
+        },
+        {
+            "name": "Slave+Infantry",
+            "score": "3",
+            "link": "Slave_Infantry"
+        },
+        {
+            "name": "Ice+Troll",
+            "score": "3",
+            "link": "Ice_Troll"
+        },
+        {
+            "name": "Ballista",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/ballista-1-medium.png"
+        },
+        {
+            "name": "Trebuchet",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/trebuchet-1-medium.png"
+        },
+        {
+            "name": "Werewolf",
+            "score": "3",
+            "link": "Werewolf"
+        },
+        {
+            "name": "Field+Medic",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/field-medic-1-medium.png"
+        },
+        {
+            "name": "Kaedweni+Cavalry",
+            "score": "3",
+            "link": "Kaedweni_Cavalry"
+        },
+        {
+            "name": "Arachas+Behemoth",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/arachas-behemoth-1-medium.png"
+        },
+        {
+            "name": "Tuirseach+Skirmisher",
+            "score": "3",
+            "link": "Tuirseach_Skirmisher"
+        },
+        {
+            "name": "Rotfiend",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/rotfiend-1-medium.png"
+        },
+        {
+            "name": "Sentry",
+            "score": "3",
+            "link": "Sentry"
+        },
+        {
+            "name": "Griffin",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/griffin-1-medium.png"
+        },
+        {
+            "name": "Ban+Ard+Tutor",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/ban-ard-tutor-1-medium.png"
+        },
+        {
+            "name": "Mastercrafted+Spear",
+            "score": "3",
+            "link": "Mastercrafted_Spear"
+        },
+        {
+            "name": "Ambassador",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/ambassador-1-medium.png"
+        },
+        {
+            "name": "Stammelford's+Tremor",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/stammelford-s-tremors-1-medium.png"
+        },
+        {
+            "name": "Biting+Frost",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/biting-frost-1-medium.png"
+        },
+        {
+            "name": "Impenetrable+Fog",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/impenetrable-fog-1-medium.png"
+        },
+        {
+            "name": "Torrential+Rain",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/torrential-rain-1-medium.png"
+        },
+        {
+            "name": "Bloodcurdling+Roar",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/bloodcurdling-roar-1-medium.png"
+        },
+        {
+            "name": "Bone+Talisman",
+            "score": "2",
+            "link": "Bone_Talisman"
+        },
+        {
+            "name": "Crushing+Trap",
+            "score": "2",
+            "link": "Crushing_Trap"
+        },
+        {
+            "name": "Rock+Barrage",
+            "score": "2",
+            "link": "Rock_Barrage"
+        },
+        {
+            "name": "Spores",
+            "score": "2",
+            "link": "Spores"
+        },
+        {
+            "name": "Peasant+Militia",
+            "score": "2",
+            "link": "Peasant_Militia"
+        },
+        {
+            "name": "Dwarven+Agitator",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/dwarven-agitator-1-medium.png"
+        },
+        {
+            "name": "Heymaey+Protector",
+            "score": "2",
+            "link": "Heymaey_Protector"
+        },
+        {
+            "name": "Aretuza+Adept",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/aretuza-adept-1-medium.png"
+        },
+        {
+            "name": "Foglet",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/foglet-1-medium.png"
+        },
+        {
+            "name": "Wild+Hunt+Hound",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/wild-hunt-hound-1-medium.png"
+        },
+        {
+            "name": "An+Craite+Raider",
+            "score": "2",
+            "link": "An_Craite_Raider"
+        },
+        {
+            "name": "Kaedweni+Revenant",
+            "score": "2",
+            "link": "Kaedweni_Revenant"
+        },
+        {
+            "name": "Nauzicaa+Brigade",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/nauzicaa-brigade-1-medium.png"
+        },
+        {
+            "name": "Siege+Master",
+            "score": "2",
+            "link": "Siege_Master"
+        },
+        {
+            "name": "Ice+Giant",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/ice-giant-1-medium.png"
+        },
+        {
+            "name": "D'ao",
+            "score": "2",
+            "link": "D'ao"
+        },
+        {
+            "name": "Celaeno+Harpy",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/celaeno-harpy-1-medium.png"
+        },
+        {
+            "name": "Vran+Warrior",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/vran-warrior-1-medium.png"
+        },
+        {
+            "name": "Tuirseach+Axeman",
+            "score": "2",
+            "link": "Tuirseach_Axeman"
+        },
+        {
+            "name": "Impera+Enforcer",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/impera-enforcers-1-medium.png"
+        },
+        {
+            "name": "An+Craite+Longship",
+            "score": "2",
+            "link": "An_Craite_Longship"
+        },
+        {
+            "name": "Mangonel",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/mangonel-1-medium.png"
+        },
+        {
+            "name": "Tuirseach+Veteran",
+            "score": "2",
+            "link": "Tuirseach_Veteran"
+        },
+        {
+            "name": "Forktail",
+            "score": "2",
+            "link": "Forktail"
+        },
+        {
+            "name": "Nekker+Warrior",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/nekker-warrior-1-medium.png"
+        },
+        {
+            "name": "Witch+Hunter",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/witch-hunter-1-medium.png"
+        },
+        {
+            "name": "Adrenaline+Rush",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/adrenaline-rush-1-medium.png"
+        },
+        {
+            "name": "Epidemic",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/epidemic-1-medium.png"
+        },
+        {
+            "name": "Dimeritium+Shackles",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/dimeritium-shackles-1-medium.png"
+        },
+        {
+            "name": "Moonlight",
+            "score": "1",
+            "link": "Moonlight"
+        },
+        {
+            "name": "Reaver+Scout",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/reaver-scout-1-medium.png"
+        },
+        {
+            "name": "Dimun+Pirate+Captain",
+            "score": "1",
+            "link": "Dimun_Pirate_Captain"
+        },
+        {
+            "name": "Venendal+Elite",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/venendal-elite-1-medium.png"
+        },
+        {
+            "name": "Dol+Blathanna+Sentry",
+            "score": "1",
+            "link": "Dol_Blathanna_Sentry"
+        },
+        {
+            "name": "Heymaey+Spearmaiden",
+            "score": "1",
+            "link": "Heymaey_Spearmaiden"
+        },
+        {
+            "name": "Slyzard",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/slyzard-1-medium.png"
+        },
+        {
+            "name": "Blue+Stripe+Scout",
+            "score": "1",
+            "link": "Blue_Stripe_Scout"
+        },
+        {
+            "name": "Blue+Stripe+Commando",
+            "score": "1",
+            "link": "Blue_Stripe_Commando"
+        },
+        {
+            "name": "Temerian+Infantry",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/temerian-infantryman-3-medium.png"
+        },
+        {
+            "name": "Arachas+Drone",
+            "score": "1",
+            "link": "Arachas_Drone"
+        },
+        {
+            "name": "Imperial+Golem",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/imperial-golem-1-medium.png"
+        },
+        {
+            "name": "Blue+Mountain+Elite",
+            "score": "1",
+            "link": "Blue_Mountain_Elite"
+        },
+        {
+            "name": "Drummond+Shieldmaid",
+            "score": "1",
+            "link": "Drummond_Shieldmaid"
+        },
+        {
+            "name": "Alba+Pikeman",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/alba-pikeman-1-medium.png"
+        },
+        {
+            "name": "Wild+Hunt+Navigator",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/wild-hunt-navigator-1-medium.png"
+        },
+        {
+            "name": "Mahakam+Volunteers",
+            "score": "1",
+            "link": "Mahakam_Volunteers"
+        },
+        {
+            "name": "Dun+Banner",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/dun-banner-heavy-cavalry-1-medium.png"
+        },
+        {
+            "name": "Nekker",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/nekker-1-medium.png"
+        },
+        {
+            "name": "Harpy",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/harpy-1-medium.png"
+        },
+        {
+            "name": "Drummond+Queensguard",
+            "score": "1",
+            "link": "Drummond_Queensguard"
+        },
+        {
+            "name": "Daerlan+Soldier",
+            "score": "1",
+            "link": "Daerlan_Soldier"
+        },
+        {
+            "name": "Siren",
+            "score": "1",
+            "link": "Siren"
+        },
+        {
+            "name": "Damned+Sorceress",
+            "score": "1",
+            "link": "Damned_Sorceress"
+        },
+        {
+            "name": "Spotter",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/spotter-1-medium.png"
+        },
+        {
+            "name": "Viper+Witcher",
+            "score": "1",
+            "link": "Viper_Witcher"
+        },
+        {
+            "name": "Reaver+Hunter",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/reaver-hunter-3-medium.png"
+        },
+        {
+            "name": "Vrihedd+Vanguard",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/vrihedd-vanguard-1-medium.png"
+        },
+        {
+            "name": "Impera+Brigade",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/impera-brigade-1-medium.png"
+        },
+        {
+            "name": "Wild+Hunt+Drakkar",
+            "score": "1",
+            "link": "Wild_Hunt_Drakkar"
+        }
+    ],
+    "silver": [
+        {
+            "name": "Olgierd+von+Everec",
+            "score": "10",
+            "link": "Olgierd_von_Everec"
+        },
+        {
+            "name": "Morkvarg",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/morkvarg-1-medium.png"
+        },
+        {
+            "name": "Roach",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/roach-1-medium.png"
+        },
+        {
+            "name": "Dethmold",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/dethmold-1-medium.png"
+        },
+        {
+            "name": "Ida+Emean+aep+Sivney",
+            "score": "9",
+            "link": "Ida_Emean_aep_Sivney"
+        },
+        {
+            "name": "Joachim+de+Wett",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/joachim-de-wett-1-medium.png"
+        },
+        {
+            "name": "Toad+Prince",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/toad-prince-1-medium.png"
+        },
+        {
+            "name": "Ozzrel",
+            "score": "9",
+            "link": "Ozzrel"
+        },
+        {
+            "name": "The+Last+Wish",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/the-last-wish-1-medium.png"
+        },
+        {
+            "name": "Alzur's+Double+Cross",
+            "score": "8",
+            "link": "Alzur's_Double_Cross"
+        },
+        {
+            "name": "Reinforcements",
+            "score": "8",
+            "link": "Reinforcements"
+        },
+        {
+            "name": "Monster's+Nest",
+            "score": "8",
+            "link": "Monster's_Nest"
+        },
+        {
+            "name": "Abaya",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/abaya-1-medium.png"
+        },
+        {
+            "name": "Vanhemar",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/vanhemar-1-medium.png"
+        },
+        {
+            "name": "Cynthia",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/cynthia-1-medium.png"
+        },
+        {
+            "name": "Malena",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/malena-1-medium.png"
+        },
+        {
+            "name": "Prince+Stennis",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/prince-stennis-1-medium.png"
+        },
+        {
+            "name": "Vaedarmakar",
+            "score": "8",
+            "link": "Vaedarmakar"
+        },
+        {
+            "name": "Striga",
+            "score": "8",
+            "link": "Striga"
+        },
+        {
+            "name": "Decoy",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/decoy-1-medium.png"
+        },
+        {
+            "name": "Garrison",
+            "score": "7",
+            "link": "Garrison"
+        },
+        {
+            "name": "Marching+Orders",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/marching-orders-1-medium.png"
+        },
+        {
+            "name": "Gremist",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/gremist-1-medium.png"
+        },
+        {
+            "name": "Pavko+Gale",
+            "score": "7",
+            "link": "Pavko_Gale"
+        },
+        {
+            "name": "Peter+Saar+Gwynleve",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/peter-saar-gwynleve-1-medium.png"
+        },
+        {
+            "name": "Champion+of+Hov",
+            "score": "7",
+            "link": "Champion_of_Hov"
+        },
+        {
+            "name": "Golyat",
+            "score": "7",
+            "link": "Golyat"
+        },
+        {
+            "name": "Germain+Piquant",
+            "score": "7",
+            "link": "Germain_Piquant"
+        },
+        {
+            "name": "Ves",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/ves-1-medium.png"
+        },
+        {
+            "name": "Vrygheff",
+            "score": "7",
+            "link": "Vrygheff"
+        },
+        {
+            "name": "Toruviel",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/toruviel-1-medium.png"
+        },
+        {
+            "name": "Cleaver",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/cleaver-1-medium.png"
+        },
+        {
+            "name": "Skjall",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/skjall-1-medium.png"
+        },
+        {
+            "name": "Nature's+Gift",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/nature-s-gift-1-medium.png"
+        },
+        {
+            "name": "Ifrit",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/ifrit-1-medium.png"
+        },
+        {
+            "name": "Commander's+Horn",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/commander-s-horn-1-medium.png"
+        },
+        {
+            "name": "Scorch",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/scorch-1-medium.png"
+        },
+        {
+            "name": "Summoning+Circle",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/summoning-circle-1-medium.png"
+        },
+        {
+            "name": "Serrit",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/serrit-1-medium.png"
+        },
+        {
+            "name": "Mandrake",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/mandrake-1-medium.png"
+        },
+        {
+            "name": "Expired+Ale",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/expired-ale-1-medium.png"
+        },
+        {
+            "name": "Dazhbog+Runestone",
+            "score": "6",
+            "link": "Dazhbog_Runestone"
+        },
+        {
+            "name": "Glorious+Hunt",
+            "score": "6",
+            "link": "Glorious_Hunt"
+        },
+        {
+            "name": "Ceallach+Dyffryn",
+            "score": "6",
+            "link": "Ceallach_Dyffryn"
+        },
+        {
+            "name": "Sile+de+Tansarville",
+            "score": "6",
+            "link": "Sile_de_Tansarville"
+        },
+        {
+            "name": "Morvudd",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/morvudd-1-medium.png"
+        },
+        {
+            "name": "Myrgtabrakke",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/myrgtabrakke-1-medium.png"
+        },
+        {
+            "name": "Ronvid+the+Incessant",
+            "score": "6",
+            "link": "Ronvid_the_Incessant"
+        },
+        {
+            "name": "Barclay+Els",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/barclay-els-1-medium.png"
+        },
+        {
+            "name": "Vandergrift's+Blade",
+            "score": "6",
+            "link": "Vandergrift's_Blade"
+        },
+        {
+            "name": "Ornamental+Sword",
+            "score": "6",
+            "link": "Ornamental_Sword"
+        },
+        {
+            "name": "Stribog+Runestone",
+            "score": "5",
+            "link": "Stribog_Runestone"
+        },
+        {
+            "name": "Zoria+Runestone",
+            "score": "5",
+            "link": "Zoria_Runestone"
+        },
+        {
+            "name": "Morana+Runestone",
+            "score": "5",
+            "link": "Morana_Runestone"
+        },
+        {
+            "name": "Bekker's+Rockslide",
+            "score": "5",
+            "link": "Bekker's_Rockslide"
+        },
+        {
+            "name": "Iris+von+Everec",
+            "score": "5",
+            "link": "Iris_von_Everec"
+        },
+        {
+            "name": "Margarita+of+Aretuza",
+            "score": "5",
+            "link": "Margarita_of_Aretuza"
+        },
+        {
+            "name": "Braenn",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/braenn-1-medium.png"
+        },
+        {
+            "name": "Nithral",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/nithral-1-medium.png"
+        },
+        {
+            "name": "Jotunn",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/jotunn-1-medium.png"
+        },
+        {
+            "name": "Cyprian+Wiley",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/cyprian-wiley-1-medium.png"
+        },
+        {
+            "name": "Hefty+Helge",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/hefty-helge-1-medium.png"
+        },
+        {
+            "name": "Djenge+Frett",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/djenge-frett-1-medium.png"
+        },
+        {
+            "name": "Sarah",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/sarah-1-medium.png"
+        },
+        {
+            "name": "Trollololo",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/trollololo-1-medium.png"
+        },
+        {
+            "name": "The+Guardian",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/the-guardian-1-medium.png"
+        },
+        {
+            "name": "Imperial+Manticore",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/imperial-manticore-1-medium.png"
+        },
+        {
+            "name": "Milaen",
+            "score": "5",
+            "link": "Milaen"
+        },
+        {
+            "name": "Nekurat",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/nekurat-1-medium.png"
+        },
+        {
+            "name": "Vreemde",
+            "score": "4",
+            "link": "Vreemde"
+        },
+        {
+            "name": "Manticore+Venom",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/manticore-venom-1-medium.png"
+        },
+        {
+            "name": "Bekker's+Dark+Mirror",
+            "score": "4",
+            "link": "Bekker's_Dark_Mirror"
+        },
+        {
+            "name": "Mahakam+Horn",
+            "score": "4",
+            "link": "Mahakam_Horn"
+        },
+        {
+            "name": "Parasite",
+            "score": "4",
+            "link": "Parasite"
+        },
+        {
+            "name": "Black+Blood",
+            "score": "4",
+            "link": "Black_Blood"
+        },
+        {
+            "name": "Nilfgaardian+Gate",
+            "score": "4",
+            "link": "Nilfgaardian_Gate"
+        },
+        {
+            "name": "Dudu",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/dudu-1-medium.png"
+        },
+        {
+            "name": "Holger+Blackhand",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/holger-blackhand-1-medium.png"
+        },
+        {
+            "name": "Derran",
+            "score": "4",
+            "link": "Derran"
+        },
+        {
+            "name": "Ciaran+aep+Easnillen",
+            "score": "4",
+            "link": "Ciaran_aep_Easnillen"
+        },
+        {
+            "name": "Sheldon+Skaggs",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/sheldon-skaggs-1-medium.png"
+        },
+        {
+            "name": "Blueboy+Lugos",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/blueboy-lugos-1-medium.png"
+        },
+        {
+            "name": "Ele'yas",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/ele-yas-1-medium.png"
+        },
+        {
+            "name": "Foltest's+Pride",
+            "score": "4",
+            "link": "Foltest's_Pride"
+        },
+        {
+            "name": "Assire+var+Anahid",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/assire-var-anahid-1-medium.png"
+        },
+        {
+            "name": "Jutta+an+Dimun",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/jutta-an-dimun-1-medium.png"
+        },
+        {
+            "name": "Iris'+Companions",
+            "score": "4",
+            "link": "Iris'_Companions"
+        },
+        {
+            "name": "Botchling",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/botchling-1-medium.png"
+        },
+        {
+            "name": "Merigold's+Hailstorm",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/merigold-s-hailstorm-1-medium.png"
+        },
+        {
+            "name": "Skellige+Storm",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/skellige-storm-1-medium.png"
+        },
+        {
+            "name": "White+Frost",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/white-frost-1-medium.png"
+        },
+        {
+            "name": "Artefact+Compression",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/artefact-compression-1-medium.png"
+        },
+        {
+            "name": "Devana+Runestone",
+            "score": "3",
+            "link": "Devana_Runestone"
+        },
+        {
+            "name": "Mourntart",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/mourntart-1-medium.png"
+        },
+        {
+            "name": "King+of+Beggars",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/king-of-beggars-1-medium.png"
+        },
+        {
+            "name": "Yoana",
+            "score": "3",
+            "link": "Yoana"
+        },
+        {
+            "name": "Auckes",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/auckes-1-medium.png"
+        },
+        {
+            "name": "Odrin",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/odrin-1-medium.png"
+        },
+        {
+            "name": "Morenn",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/morenn-1-medium.png"
+        },
+        {
+            "name": "Yarpen+Zigrin",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/yarpen-zigrin-1-medium.png"
+        },
+        {
+            "name": "Donar+an+Hindar",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/donar-an-hindar-1-medium.png"
+        },
+        {
+            "name": "Giant+Boar",
+            "score": "3",
+            "link": "Giant_Boar"
+        },
+        {
+            "name": "Svanrige+Tuirseach",
+            "score": "3",
+            "link": "Svanrige_Tuirseach"
+        },
+        {
+            "name": "Vincent+Meis",
+            "score": "3",
+            "link": "Vincent_Meis"
+        },
+        {
+            "name": "Albrich",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/albrich-1-medium.png"
+        },
+        {
+            "name": "Nivellen",
+            "score": "3",
+            "link": "Nivellen"
+        },
+        {
+            "name": "Stregobor",
+            "score": "3",
+            "link": "Stregobor"
+        },
+        {
+            "name": "Johnny",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/johnny-1-medium.png"
+        },
+        {
+            "name": "False+Ciri",
+            "score": "3",
+            "link": "False_Ciri"
+        },
+        {
+            "name": "Treason",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/treason-1-medium.png"
+        },
+        {
+            "name": "Necromancy",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/necromancy-1-medium.png"
+        },
+        {
+            "name": "Pit+Trap",
+            "score": "2",
+            "link": "Pit_Trap"
+        },
+        {
+            "name": "Cadaverine",
+            "score": "2",
+            "link": "Cadaverine"
+        },
+        {
+            "name": "Dorregaray+of+Vole",
+            "score": "2",
+            "link": "Dorregaray_of_Vole"
+        },
+        {
+            "name": "Sigrdrifa",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/sigrdrifa-1-medium.png"
+        },
+        {
+            "name": "Eibhear+Hattori",
+            "score": "2",
+            "link": "Eibhear_Hattori"
+        },
+        {
+            "name": "Sabrina's+Specter",
+            "score": "2",
+            "link": "Sabrina's_Specter"
+        },
+        {
+            "name": "Paulie+Dahlberg",
+            "score": "2",
+            "link": "Paulie_Dahlberg"
+        },
+        {
+            "name": "Harald+Houndsnout",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/harald-houndsnout-1-medium.png"
+        },
+        {
+            "name": "Ocvist",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/ocvist-1-medium.png"
+        },
+        {
+            "name": "Dennis+Cranmer",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/dennis-cranmer-1-medium.png"
+        },
+        {
+            "name": "Ruehin",
+            "score": "2",
+            "link": "Ruehin"
+        },
+        {
+            "name": "Sweers",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/sweers-1-medium.png"
+        },
+        {
+            "name": "Henry+var+Attre",
+            "score": "2",
+            "link": "Henry_var_Attre"
+        },
+        {
+            "name": "Nenneke",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/nenneke-1-medium.png"
+        },
+        {
+            "name": "Dimeritium+Bomb",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/dimeritium-bomb-1-medium.png"
+        },
+        {
+            "name": "Restore",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/restore-1-medium.png"
+        },
+        {
+            "name": "Dragon's+Dream",
+            "score": "1",
+            "link": "Dragon's_Dream"
+        },
+        {
+            "name": "Prize-Winning+Cow",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/prize-winning-cow-1-medium.png"
+        },
+        {
+            "name": "Fringilla+Vigo",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/fringilla-vigo-1-medium.png"
+        },
+        {
+            "name": "She-Troll+of+Vergen",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/she-troll-of-vergen-1-medium.png"
+        },
+        {
+            "name": "Sabrina+Glevissig",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/sabrina-glevissig-1-medium.png"
+        },
+        {
+            "name": "Princess+Pavetta",
+            "score": "1",
+            "link": "Princess_Pavetta"
+        },
+        {
+            "name": "Maerolorn",
+            "score": "1",
+            "link": "Maerolorn"
+        },
+        {
+            "name": "Lambert",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/lambert-1-medium.png"
+        },
+        {
+            "name": "Operator",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/operator-1-medium.png"
+        },
+        {
+            "name": "Lubberkin",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/lubberkin-1-medium.png"
+        },
+        {
+            "name": "Eskel",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/eskel-1-medium.png"
+        },
+        {
+            "name": "Whispess",
+            "score": "1",
+            "link": "Whispess"
+        },
+        {
+            "name": "Weavess",
+            "score": "1",
+            "link": "Weavess"
+        },
+        {
+            "name": "Aelirenn",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/aelirenn-1-medium.png"
+        },
+        {
+            "name": "Draig+Bon-Dhu",
+            "score": "1",
+            "link": "Draig_Bon-Dhu"
+        },
+        {
+            "name": "Vesemir",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/vesemir-1-medium.png"
+        },
+        {
+            "name": "Hubert+Rejk",
+            "score": "1",
+            "link": "Hubert_Rejk"
+        },
+        {
+            "name": "Brewess",
+            "score": "1",
+            "link": "Brewess"
+        }
+    ],
+    "gold": [
+        {
+            "name": "Royal+Decree",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/royal-decree-1-medium.png"
+        },
+        {
+            "name": "Shupe's+Day+Off",
+            "score": "10",
+            "link": "Shupe's_Day_Off"
+        },
+        {
+            "name": "Seltkirk+of+Gulet",
+            "score": "10",
+            "link": "Seltkirk_of_Gulet"
+        },
+        {
+            "name": "Aglais",
+            "score": "10",
+            "link": "Aglais"
+        },
+        {
+            "name": "Vilgefortz",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/vilgefortz-1-medium.png"
+        },
+        {
+            "name": "Dandelion:+Poet",
+            "score": "10",
+            "link": "Dandelion:_Poet"
+        },
+        {
+            "name": "Shani",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/shani-1-medium.png"
+        },
+        {
+            "name": "Caretaker",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/caretaker-1-medium.png"
+        },
+        {
+            "name": "Stefan+Skellen",
+            "score": "9",
+            "link": "https://api.gwentapi.com/media/stefan-skellen-1-medium.png"
+        },
+        {
+            "name": "Sigismund+Dijkstra",
+            "score": "9",
+            "link": "Sigismund_Dijkstra"
+        },
+        {
+            "name": "Isengrim:+Outlaw",
+            "score": "8",
+            "link": "Isengrim:_Outlaw"
+        },
+        {
+            "name": "Ge'els",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/ge-els-1-medium.png"
+        },
+        {
+            "name": "Cahir+Dyffryn",
+            "score": "8",
+            "link": "Cahir_Dyffryn"
+        },
+        {
+            "name": "Hym",
+            "score": "8",
+            "link": "Hym"
+        },
+        {
+            "name": "Renew",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/renew-1-medium.png"
+        },
+        {
+            "name": "Hanmarvyn's+Dream",
+            "score": "8",
+            "link": "Hanmarvyn's_Dream"
+        },
+        {
+            "name": "Draug",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/draug-1-medium.png"
+        },
+        {
+            "name": "Imlerith:+Sabbath",
+            "score": "7",
+            "link": "Imlerith:_Sabbath"
+        },
+        {
+            "name": "Aguara:+True+Form",
+            "score": "7",
+            "link": "Aguara:_True_Form"
+        },
+        {
+            "name": "Schirru",
+            "score": "7",
+            "link": "Schirru"
+        },
+        {
+            "name": "Kayran",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/kayran-1-medium.png"
+        },
+        {
+            "name": "Keira+Metz",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/keira-metz-1-medium.png"
+        },
+        {
+            "name": "Eskel:+Pathfinder",
+            "score": "7",
+            "link": "Eskel:_Pathfinder"
+        },
+        {
+            "name": "Avallac'h:+Sage",
+            "score": "7",
+            "link": "Avallac'h:_Sage"
+        },
+        {
+            "name": "Madman+Lugos",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/madman-lugos-1-medium.png"
+        },
+        {
+            "name": "Leo+Bonhart",
+            "score": "7",
+            "link": "https://api.gwentapi.com/media/leo-bonhart-1-medium.png"
+        },
+        {
+            "name": "Uma's+Curse",
+            "score": "6",
+            "link": "Uma's_Curse"
+        },
+        {
+            "name": "Muzzle",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/muzzle-1-medium.png"
+        },
+        {
+            "name": "Priscilla",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/priscilla-1-medium.png"
+        },
+        {
+            "name": "Kiyan",
+            "score": "6",
+            "link": "Kiyan"
+        },
+        {
+            "name": "Geralt:+Igni",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/geralt-igni-1-medium.png"
+        },
+        {
+            "name": "Aguara",
+            "score": "6",
+            "link": "Aguara"
+        },
+        {
+            "name": "Zoltan:+Scoundrel",
+            "score": "6",
+            "link": "Zoltan:_Scoundrel"
+        },
+        {
+            "name": "Regis:+Higher+Vampire",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/regis-higher-vampire-1-medium.png"
+        },
+        {
+            "name": "Shilard",
+            "score": "6",
+            "link": "Shilard"
+        },
+        {
+            "name": "Hjalmar+an+Craite",
+            "score": "6",
+            "link": "Hjalmar_an_Craite"
+        },
+        {
+            "name": "Iorveth",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/iorveth-1-medium.png"
+        },
+        {
+            "name": "Vabjorn",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/vabjorn-1-medium.png"
+        },
+        {
+            "name": "Assassination",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/assassination-1-medium.png"
+        },
+        {
+            "name": "Coral",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/coral-1-medium.png"
+        },
+        {
+            "name": "Letho:+Kingslayer",
+            "score": "5",
+            "link": "Letho:_Kingslayer"
+        },
+        {
+            "name": "Geralt:+Aard",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/geralt-aard-1-medium.png"
+        },
+        {
+            "name": "Birna+Bran",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/birna-bran-1-medium.png"
+        },
+        {
+            "name": "Vandergrift",
+            "score": "5",
+            "link": "Vandergrift"
+        },
+        {
+            "name": "Zoltan+Chivay",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/zoltan-chivay-1-medium.png"
+        },
+        {
+            "name": "Triss+Merigold",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/triss-merigold-1-medium.png"
+        },
+        {
+            "name": "Villentretenmerth",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/villentretenmerth-1-medium.png"
+        },
+        {
+            "name": "Yennefer:+Conjurer",
+            "score": "5",
+            "link": "Yennefer:_Conjurer"
+        },
+        {
+            "name": "Old+Speartip",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/old-speartip-asleep-1-medium.png"
+        },
+        {
+            "name": "Ale+of+the+Ancestors",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/ale-of-the-ancestors-1-medium.png"
+        },
+        {
+            "name": "Geralt+of+Rivia",
+            "score": "5",
+            "link": "Geralt_of_Rivia"
+        },
+        {
+            "name": "Ermion",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/ermion-1-medium.png"
+        },
+        {
+            "name": "Sihil",
+            "score": "4",
+            "link": "Sihil"
+        },
+        {
+            "name": "Philippa+Eilhart",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/philippa-eilhart-1-medium.png"
+        },
+        {
+            "name": "Iorveth:+Meditation",
+            "score": "4",
+            "link": "Iorveth:_Meditation"
+        },
+        {
+            "name": "Vernon+Roche",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/vernon-roche-1-medium.png"
+        },
+        {
+            "name": "Yennefer",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/yennefer-1-medium.png"
+        },
+        {
+            "name": "John+Natalis",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/john-natalis-1-medium.png"
+        },
+        {
+            "name": "Ulfhedinn",
+            "score": "4",
+            "link": "Ulfhedinn"
+        },
+        {
+            "name": "Menno+Coehoorn",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/menno-coehoorn-1-medium.png"
+        },
+        {
+            "name": "Lambert:+Swordmaster",
+            "score": "4",
+            "link": "Lambert:_Swordmaster"
+        },
+        {
+            "name": "Imlerith",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/imlerith-1-medium.png"
+        },
+        {
+            "name": "Caranthir+ar-Feiniel",
+            "score": "4",
+            "link": "Caranthir_ar-Feiniel"
+        },
+        {
+            "name": "Dandelion",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/dandelion-1-medium.png"
+        },
+        {
+            "name": "Xarthisius",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/xarthisius-1-medium.png"
+        },
+        {
+            "name": "Triss:+Telekinesis",
+            "score": "4",
+            "link": "Triss:_Telekinesis"
+        },
+        {
+            "name": "Ragh+Nar+Roog",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/ragh-nar-roog-1-medium.png"
+        },
+        {
+            "name": "Korathi+Heatwave",
+            "score": "4",
+            "link": "Korathi_Heatwave"
+        },
+        {
+            "name": "Woodland+Spirit",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/woodland-spirit-1-medium.png"
+        },
+        {
+            "name": "Tibor+Eggebracht",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/tibor-eggebracht-1-medium.png"
+        },
+        {
+            "name": "Trial+of+the+Grasses",
+            "score": "3",
+            "link": "Trial_of_the_Grasses"
+        },
+        {
+            "name": "Rainfarn+of+Attre",
+            "score": "3",
+            "link": "Rainfarn_of_Attre"
+        },
+        {
+            "name": "Yennefer:+Enchantress",
+            "score": "3",
+            "link": "Yennefer:_Enchantress"
+        },
+        {
+            "name": "Milva",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/milva-1-medium.png"
+        },
+        {
+            "name": "Vesemir:+Mentor",
+            "score": "3",
+            "link": "Vesemir:_Mentor"
+        },
+        {
+            "name": "Isengrim+Faoiltairna",
+            "score": "3",
+            "link": "Isengrim_Faoiltairna"
+        },
+        {
+            "name": "Triss:+Butterflies",
+            "score": "3",
+            "link": "Triss:_Butterflies"
+        },
+        {
+            "name": "Avallac'h",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/avallac-h-1-medium.png"
+        },
+        {
+            "name": "Wild+Boar+of+the+Sea",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/wild-boar-of-the-sea-1-medium.png"
+        },
+        {
+            "name": "Bloody+Baron",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/bloody-baron-1-medium.png"
+        },
+        {
+            "name": "Saesenthessis",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/saesenthessis-1-medium.png"
+        },
+        {
+            "name": "Xavier+Moran",
+            "score": "3",
+            "link": "Xavier_Moran"
+        },
+        {
+            "name": "Ciri:+Dash",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/ciri-dash-1-medium.png"
+        },
+        {
+            "name": "Vattier+de+Rideaux",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/vattier-de-rideaux-1-medium.png"
+        },
+        {
+            "name": "Saskia",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/saskia-1-medium.png"
+        },
+        {
+            "name": "Old+Speartip:+Asleep",
+            "score": "3",
+            "link": "https://api.gwentapi.com/media/old-speartip-asleep-1-medium.png"
+        },
+        {
+            "name": "Olaf",
+            "score": "3",
+            "link": "Olaf"
+        },
+        {
+            "name": "Yennefer:+Necromancer",
+            "score": "3",
+            "link": "Yennefer:_Necromancer"
+        },
+        {
+            "name": "Geralt:+Professional",
+            "score": "3",
+            "link": "Geralt:_Professional"
+        },
+        {
+            "name": "Morenn:+Forest+Child",
+            "score": "3",
+            "link": "Morenn:_Forest_Child"
+        },
+        {
+            "name": "Miruna",
+            "score": "3",
+            "link": "Miruna"
+        },
+        {
+            "name": "Dandelion:+Vainglory",
+            "score": "3",
+            "link": "Dandelion:_Vainglory"
+        },
+        {
+            "name": "Ciri",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/ciri-1-medium.png"
+        },
+        {
+            "name": "Regis",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/regis-1-medium.png"
+        },
+        {
+            "name": "Brewess:+Ritual",
+            "score": "2",
+            "link": "Brewess:_Ritual"
+        },
+        {
+            "name": "Ithlinne+Aegli",
+            "score": "2",
+            "link": "Ithlinne_Aegli"
+        },
+        {
+            "name": "Phoenix",
+            "score": "2",
+            "link": "Phoenix"
+        },
+        {
+            "name": "Gaunter+O'Dimm",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/gaunter-o-dimm-1-medium.png"
+        },
+        {
+            "name": "Cerys+an+Craite",
+            "score": "2",
+            "link": "Cerys_an_Craite"
+        },
+        {
+            "name": "Whispess:+Tribute",
+            "score": "2",
+            "link": "Whispess:_Tribute"
+        },
+        {
+            "name": "Geralt:+Yrden",
+            "score": "2",
+            "link": "Geralt:_Yrden"
+        },
+        {
+            "name": "Saesenthessis:+Blaze",
+            "score": "2",
+            "link": "Saesenthessis:_Blaze"
+        },
+        {
+            "name": "Ihuarraquax",
+            "score": "2",
+            "link": "Ihuarraquax"
+        },
+        {
+            "name": "Cerys:+Fearless",
+            "score": "2",
+            "link": "Cerys:_Fearless"
+        },
+        {
+            "name": "Roche:+Merciless",
+            "score": "2",
+            "link": "Roche:_Merciless"
+        },
+        {
+            "name": "Wolfsbane",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/wolfsbane-1-medium.png"
+        },
+        {
+            "name": "Kambi",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/kambi-1-medium.png"
+        },
+        {
+            "name": "Letho+of+Gulet",
+            "score": "1",
+            "link": "https://api.gwentapi.com/media/letho-of-gulet-1-medium.png"
+        },
+        {
+            "name": "Ciri:+Nova",
+            "score": "1",
+            "link": "Ciri:_Nova"
+        },
+        {
+            "name": "Weavess:+Incantation",
+            "score": "1",
+            "link": "Weavess:_Incantation"
+        }
+    ],
+    "leader": [
+        {
+            "name": "Brouver+Hoog",
+            "score": "10",
+            "link": "https://api.gwentapi.com/media/brouver-hoog-1-medium.png"
+        },
+        {
+            "name": "Usurper",
+            "score": "9",
+            "link": "Usurper"
+        },
+        {
+            "name": "Jan+Calveit",
+            "score": "9",
+            "link": "Jan_Calveit"
+        },
+        {
+            "name": "Crach+an+Craite",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/crach-an-craite-1-medium.png"
+        },
+        {
+            "name": "Eithne",
+            "score": "8",
+            "link": "Eithne"
+        },
+        {
+            "name": "Emhyr+var+Emreis",
+            "score": "8",
+            "link": "https://api.gwentapi.com/media/emhyr-var-emreis-1-medium.png"
+        },
+        {
+            "name": "Francesca+Findabair",
+            "score": "7",
+            "link": "Francesca_Findabair"
+        },
+        {
+            "name": "Princess+Adda",
+            "score": "7",
+            "link": "Princess_Adda"
+        },
+        {
+            "name": "Eredin+Breacc+Glas",
+            "score": "6",
+            "link": "Eredin_Breacc_Glas"
+        },
+        {
+            "name": "King+Radovid+V",
+            "score": "6",
+            "link": "King_Radovid_V"
+        },
+        {
+            "name": "Unseen+Elder",
+            "score": "6",
+            "link": "https://api.gwentapi.com/media/unseen-elder-1-medium.png"
+        },
+        {
+            "name": "Whispering+Hillock",
+            "score": "6",
+            "link": "Whispering_Hillock"
+        },
+        {
+            "name": "Eist+Tuirseach",
+            "score": "5",
+            "link": "Eist_Tuirseach"
+        },
+        {
+            "name": "Harald+the+Cripple",
+            "score": "5",
+            "link": "https://api.gwentapi.com/media/harald-the-cripple-1-medium.png"
+        },
+        {
+            "name": "Filavandrel",
+            "score": "5",
+            "link": "Filavandrel"
+        },
+        {
+            "name": "King+Foltest",
+            "score": "4",
+            "link": "King_Foltest"
+        },
+        {
+            "name": "Dagon",
+            "score": "4",
+            "link": "https://api.gwentapi.com/media/dagon-1-medium.png"
+        },
+        {
+            "name": "Morvran+Voorhis",
+            "score": "2",
+            "link": "https://api.gwentapi.com/media/morvran-voorhis-1-medium.png"
+        },
+        {
+            "name": "Bran+Tuirseach",
+            "score": "1",
+            "link": "Bran_Tuirseach"
+        },
+        {
+            "name": "King+Henselt",
+            "score": "1",
+            "link": "King_Henselt"
+        },
+        {
+            "name": "Arachas+Queen",
+            "score": "1",
+            "link": "Arachas_Queen"
+        }
+    ]
+}

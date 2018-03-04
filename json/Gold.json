@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Royal+Decree",
+        "score": "10"
+    },
+    {
+        "name": "Shupe's+Day+Off",
+        "score": "10"
+    },
+    {
+        "name": "Seltkirk+of+Gulet",
+        "score": "10"
+    },
+    {
+        "name": "Aglais",
+        "score": "10"
+    },
+    {
+        "name": "Vilgefortz",
+        "score": "10"
+    },
+    {
+        "name": "Dandelion:+Poet",
+        "score": "10"
+    },
+    {
+        "name": "Shani",
+        "score": "9"
+    },
+    {
+        "name": "Caretaker",
+        "score": "9"
+    },
+    {
+        "name": "Stefan+Skellen",
+        "score": "9"
+    },
+    {
+        "name": "Sigismund+Dijkstra",
+        "score": "9"
+    },
+    {
+        "name": "Isengrim:+Outlaw",
+        "score": "8"
+    },
+    {
+        "name": "Ge'els",
+        "score": "8"
+    },
+    {
+        "name": "Cahir+Dyffryn",
+        "score": "8"
+    },
+    {
+        "name": "Hym",
+        "score": "8"
+    },
+    {
+        "name": "Renew",
+        "score": "8"
+    },
+    {
+        "name": "Hanmarvyn's+Dream",
+        "score": "8"
+    },
+    {
+        "name": "Draug",
+        "score": "7"
+    },
+    {
+        "name": "Imlerith:+Sabbath",
+        "score": "7"
+    },
+    {
+        "name": "Aguara:+True+Form",
+        "score": "7"
+    },
+    {
+        "name": "Schirru",
+        "score": "7"
+    },
+    {
+        "name": "Kayran",
+        "score": "7"
+    },
+    {
+        "name": "Keira+Metz",
+        "score": "7"
+    },
+    {
+        "name": "Eskel:+Pathfinder",
+        "score": "7"
+    },
+    {
+        "name": "Avallac'h:+Sage",
+        "score": "7"
+    },
+    {
+        "name": "Madman+Lugos",
+        "score": "7"
+    },
+    {
+        "name": "Leo+Bonhart",
+        "score": "7"
+    },
+    {
+        "name": "Uma's+Curse",
+        "score": "6"
+    },
+    {
+        "name": "Muzzle",
+        "score": "6"
+    },
+    {
+        "name": "Priscilla",
+        "score": "6"
+    },
+    {
+        "name": "Kiyan",
+        "score": "6"
+    },
+    {
+        "name": "Geralt:+Igni",
+        "score": "6"
+    },
+    {
+        "name": "Aguara",
+        "score": "6"
+    },
+    {
+        "name": "Zoltan:+Scoundrel",
+        "score": "6"
+    },
+    {
+        "name": "Regis:+Higher+Vampire",
+        "score": "6"
+    },
+    {
+        "name": "Shilard",
+        "score": "6"
+    },
+    {
+        "name": "Hjalmar+an+Craite",
+        "score": "6"
+    },
+    {
+        "name": "Iorveth",
+        "score": "6"
+    },
+    {
+        "name": "Vabjorn",
+        "score": "6"
+    },
+    {
+        "name": "Assassination",
+        "score": "5"
+    },
+    {
+        "name": "Coral",
+        "score": "5"
+    },
+    {
+        "name": "Letho:+Kingslayer",
+        "score": "5"
+    },
+    {
+        "name": "Geralt:+Aard",
+        "score": "5"
+    },
+    {
+        "name": "Birna+Bran",
+        "score": "5"
+    },
+    {
+        "name": "Vandergrift",
+        "score": "5"
+    },
+    {
+        "name": "Zoltan+Chivay",
+        "score": "5"
+    },
+    {
+        "name": "Triss+Merigold",
+        "score": "5"
+    },
+    {
+        "name": "Villentretenmerth",
+        "score": "5"
+    },
+    {
+        "name": "Yennefer:+Conjurer",
+        "score": "5"
+    },
+    {
+        "name": "Old+Speartip",
+        "score": "5"
+    },
+    {
+        "name": "Ale+of+the+Ancestors",
+        "score": "5"
+    },
+    {
+        "name": "Geralt+of+Rivia",
+        "score": "5"
+    },
+    {
+        "name": "Ermion",
+        "score": "5"
+    },
+    {
+        "name": "Sihil",
+        "score": "4"
+    },
+    {
+        "name": "Philippa+Eilhart",
+        "score": "4"
+    },
+    {
+        "name": "Iorveth:+Meditation",
+        "score": "4"
+    },
+    {
+        "name": "Vernon+Roche",
+        "score": "4"
+    },
+    {
+        "name": "Yennefer",
+        "score": "4"
+    },
+    {
+        "name": "John+Natalis",
+        "score": "4"
+    },
+    {
+        "name": "Ulfhedinn",
+        "score": "4"
+    },
+    {
+        "name": "Menno+Coehoorn",
+        "score": "4"
+    },
+    {
+        "name": "Lambert:+Swordmaster",
+        "score": "4"
+    },
+    {
+        "name": "Imlerith",
+        "score": "4"
+    },
+    {
+        "name": "Caranthir+ar-Feiniel",
+        "score": "4"
+    },
+    {
+        "name": "Dandelion",
+        "score": "4"
+    },
+    {
+        "name": "Xarthisius",
+        "score": "4"
+    },
+    {
+        "name": "Triss:+Telekinesis",
+        "score": "4"
+    },
+    {
+        "name": "Ragh+Nar+Roog",
+        "score": "4"
+    },
+    {
+        "name": "Korathi+Heatwave",
+        "score": "4"
+    },
+    {
+        "name": "Woodland+Spirit",
+        "score": "4"
+    },
+    {
+        "name": "Tibor+Eggebracht",
+        "score": "3"
+    },
+    {
+        "name": "Trial+of+the+Grasses",
+        "score": "3"
+    },
+    {
+        "name": "Rainfarn+of+Attre",
+        "score": "3"
+    },
+    {
+        "name": "Yennefer:+Enchantress",
+        "score": "3"
+    },
+    {
+        "name": "Milva",
+        "score": "3"
+    },
+    {
+        "name": "Vesemir:+Mentor",
+        "score": "3"
+    },
+    {
+        "name": "Isengrim+Faoiltairna",
+        "score": "3"
+    },
+    {
+        "name": "Triss:+Butterflies",
+        "score": "3"
+    },
+    {
+        "name": "Avallac'h",
+        "score": "3"
+    },
+    {
+        "name": "Wild+Boar+of+the+Sea",
+        "score": "3"
+    },
+    {
+        "name": "Bloody+Baron",
+        "score": "3"
+    },
+    {
+        "name": "Saesenthessis",
+        "score": "3"
+    },
+    {
+        "name": "Xavier+Moran",
+        "score": "3"
+    },
+    {
+        "name": "Ciri:+Dash",
+        "score": "3"
+    },
+    {
+        "name": "Vattier+de+Rideaux",
+        "score": "3"
+    },
+    {
+        "name": "Saskia",
+        "score": "3"
+    },
+    {
+        "name": "Old+Speartip:+Asleep",
+        "score": "3"
+    },
+    {
+        "name": "Olaf",
+        "score": "3"
+    },
+    {
+        "name": "Yennefer:+Necromancer",
+        "score": "3"
+    },
+    {
+        "name": "Geralt:+Professional",
+        "score": "3"
+    },
+    {
+        "name": "Morenn:+Forest+Child",
+        "score": "3"
+    },
+    {
+        "name": "Miruna",
+        "score": "3"
+    },
+    {
+        "name": "Dandelion:+Vainglory",
+        "score": "3"
+    },
+    {
+        "name": "Ciri",
+        "score": "2"
+    },
+    {
+        "name": "Regis",
+        "score": "2"
+    },
+    {
+        "name": "Brewess:+Ritual",
+        "score": "2"
+    },
+    {
+        "name": "Ithlinne+Aegli",
+        "score": "2"
+    },
+    {
+        "name": "Phoenix",
+        "score": "2"
+    },
+    {
+        "name": "Gaunter+O'Dimm",
+        "score": "2"
+    },
+    {
+        "name": "Cerys+an+Craite",
+        "score": "2"
+    },
+    {
+        "name": "Whispess:+Tribute",
+        "score": "2"
+    },
+    {
+        "name": "Geralt:+Yrden",
+        "score": "2"
+    },
+    {
+        "name": "Saesenthessis:+Blaze",
+        "score": "2"
+    },
+    {
+        "name": "Ihuarraquax",
+        "score": "2"
+    },
+    {
+        "name": "Cerys:+Fearless",
+        "score": "2"
+    },
+    {
+        "name": "Roche:+Merciless",
+        "score": "2"
+    },
+    {
+        "name": "Wolfsbane",
+        "score": "1"
+    },
+    {
+        "name": "Kambi",
+        "score": "1"
+    },
+    {
+        "name": "Letho+of+Gulet",
+        "score": "1"
+    },
+    {
+        "name": "Ciri:+Nova",
+        "score": "1"
+    },
+    {
+        "name": "Weavess:+Incantation",
+        "score": "1"
+    }
+]
