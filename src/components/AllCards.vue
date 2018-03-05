@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
+  <div class="colums">
     <h3>{{ msg }}</h3>
-    <button class="card-types" v-bind:key="key" v-for="(val, key) in types" v-on:click="cardsType=val">{{ val }}</button>
+    <button class="card-types button is-primary is-rounded" v-bind:key="key" v-for="(val, key) in types" v-on:click="cardsType=val">{{ val }}</button>
     <card-type v-bind:card-type="cardsType" v-bind:card-list="dataObj"></card-type>
   </div>
 </template>
@@ -31,15 +31,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
-  font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
+.card-types {
+  margin: 15px;
 }
 </style>
