@@ -1,0 +1,45 @@
+<template>
+  <div class="hello">
+    <h3>{{ msg }}</h3>
+    <button class="card-types" v-bind:key="key" v-for="(val, key) in types" v-on:click="cardsType=val">{{ val }}</button>
+    <card-type v-bind:card-type="cardsType" v-bind:card-list="dataObj"></card-type>
+  </div>
+</template>
+
+<script>
+import cards from './../assets/json/AllCardsImg.json'
+import CardType from './CardType'
+export default {
+  data () {
+    return {
+      msg: 'All Cards',
+      dataObj: cards,
+      types:'',
+      cardsType:''
+    }
+  },
+  components: {
+    CardType
+  },
+
+  created () {
+    this.types = Object.keys(this.dataObj)
+    this.cardsType = this.types[0]
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+h1, h2 {
+  font-weight: normal;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+</style>
