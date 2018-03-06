@@ -1,0 +1,2385 @@
+{
+    "bronse": [
+        {
+            "name": "Slave+Driver",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Elven+Scout",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Wardancer",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Cyclops",
+            "score": "10",
+            "link": "Cyclops.png"
+        },
+        {
+            "name": "Ghoul",
+            "score": "9",
+            "link": "Ghoul.png"
+        },
+        {
+            "name": "Tuirseach+Bearmaster",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Panther",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Archespore",
+            "score": "9",
+            "link": "Archespore.png"
+        },
+        {
+            "name": "Vrihedd+Officer",
+            "score": "9",
+            "link": "Vrihedd+Officer.png"
+        },
+        {
+            "name": "Battering+Ram",
+            "score": "8",
+            "link": "Battering+Ram.png"
+        },
+        {
+            "name": "Half-Elf+Hunter",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "An+Craite+Whaler",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reconnaissance",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dol+Blathanna+Bomber",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Redanian+Knight-Elect",
+            "score": "8",
+            "link": "Redanian+Knight-Elect.png"
+        },
+        {
+            "name": "Siege+Support",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reinforced+Trebuchet",
+            "score": "7",
+            "link": "Reinforced+Trebuchet.png"
+        },
+        {
+            "name": "Savage+Bear",
+            "score": "7",
+            "link": "Savage+Bear.png"
+        },
+        {
+            "name": "Vrihedd+Dragoon",
+            "score": "7",
+            "link": "Vrihedd+Dragoon.png"
+        },
+        {
+            "name": "Dimun+Light+Longship",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alzur's+Thunder",
+            "score": "7",
+            "link": "Alzur's+Thunder.png"
+        },
+        {
+            "name": "Elven+Blade",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "First+Light",
+            "score": "7",
+            "link": "First+Light.png"
+        },
+        {
+            "name": "Vicovaro+Medic",
+            "score": "7",
+            "link": "Vicovaro+Medic.png"
+        },
+        {
+            "name": "Recruit",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Pyrotechnician",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dwarven+Skirmisher",
+            "score": "7",
+            "link": "Dwarven+Skirmisher.png"
+        },
+        {
+            "name": "Barbegazi",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dol+Blathanna+Archer",
+            "score": "7",
+            "link": "Dol+Blathanna+Archer.png"
+        },
+        {
+            "name": "Hawker+Smuggler",
+            "score": "7",
+            "link": "Hawker+Smuggler.png"
+        },
+        {
+            "name": "An+Craite+Armorsmith",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alba+Armored+Cavalry",
+            "score": "7",
+            "link": "Alba+Armored+Cavalry.png"
+        },
+        {
+            "name": "Dwarven+Mercenary",
+            "score": "7",
+            "link": "Dwarven+Mercenary.png"
+        },
+        {
+            "name": "An+Craite+Blacksmith",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vrihedd+Neophyte",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nilfgaardian+Knight",
+            "score": "7",
+            "link": "Nilfgaardian+Knight.png"
+        },
+        {
+            "name": "Mahakam+Ale",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Winch",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dimun+Corsair",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Hawker+Support",
+            "score": "7",
+            "link": "Hawker+Support.png"
+        },
+        {
+            "name": "Heymaey+Flaminica",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vrihedd+Sappers",
+            "score": "6",
+            "link": "Vrihedd+Sappers.png"
+        },
+        {
+            "name": "Elven+Mercenary",
+            "score": "6",
+            "link": "Elven+Mercenary.png"
+        },
+        {
+            "name": "Priestess+of+Freya",
+            "score": "6",
+            "link": "Priestess+of+Freya.png"
+        },
+        {
+            "name": "Mahakam+Guard",
+            "score": "6",
+            "link": "Mahakam+Guard.png"
+        },
+        {
+            "name": "Ekimmara",
+            "score": "6",
+            "link": "Ekimmara.png"
+        },
+        {
+            "name": "Hawker+Healer",
+            "score": "6",
+            "link": "Hawker+Healer.png"
+        },
+        {
+            "name": "Temerian+Drummer",
+            "score": "6",
+            "link": "Temerian+Drummer.png"
+        },
+        {
+            "name": "Wyvern",
+            "score": "6",
+            "link": "Wyvern.png"
+        },
+        {
+            "name": "Tuirseach+Hunter",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Combat+Engineer",
+            "score": "6",
+            "link": "Combat+Engineer.png"
+        },
+        {
+            "name": "Cockatrice",
+            "score": "6",
+            "link": "Cockatrice.png"
+        },
+        {
+            "name": "Wild+Hunt+Warrior",
+            "score": "6",
+            "link": "Wild+Hunt+Warrior.png"
+        },
+        {
+            "name": "Nauzicaa+Sergeant",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dimun+Warship",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Aedirnian+Mauler",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "An+Craite+Marauder",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Siege+Tower",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Tuirseach+Archer",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Farseer",
+            "score": "6",
+            "link": "Farseer.png"
+        },
+        {
+            "name": "Slave+Hunter",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Kaedweni+Sergeant",
+            "score": "6",
+            "link": "Kaedweni+Sergeant.png"
+        },
+        {
+            "name": "Archgriffin",
+            "score": "6",
+            "link": "Archgriffin.png"
+        },
+        {
+            "name": "Fiend",
+            "score": "6",
+            "link": "Fiend.png"
+        },
+        {
+            "name": "Dimun+Pirate",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Master+of+Disguise",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "An+Craite+Warrior",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alchemist",
+            "score": "6",
+            "link": "Alchemist.png"
+        },
+        {
+            "name": "Vrihedd+Brigade",
+            "score": "5",
+            "link": "Vrihedd+Brigade.png"
+        },
+        {
+            "name": "Thunderbolt",
+            "score": "5",
+            "link": "Thunderbolt.png"
+        },
+        {
+            "name": "Assassin",
+            "score": "5",
+            "link": "Assassin.png"
+        },
+        {
+            "name": "Sage",
+            "score": "5",
+            "link": "Sage.png"
+        },
+        {
+            "name": "Tormented+Mage",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "An+Craite+Warcrier",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Fire+Scorpion",
+            "score": "5",
+            "link": "Fire+Scorpion.png"
+        },
+        {
+            "name": "Elven+Swordmaster",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Mahakam+Defender",
+            "score": "5",
+            "link": "Mahakam+Defender.png"
+        },
+        {
+            "name": "Poor+F'ing+Infantry",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Redanian+Knight",
+            "score": "5",
+            "link": "Redanian+Knight.png"
+        },
+        {
+            "name": "Drowner",
+            "score": "5",
+            "link": "Drowner.png"
+        },
+        {
+            "name": "Dol+Blathanna+Bowman",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Deithwen+Arbalest",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Standard+Bearer",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Kaedweni+Knight",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alba+Spearman",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Tridam+Infantry",
+            "score": "5",
+            "link": "Tridam+Infantry.png"
+        },
+        {
+            "name": "Bridge+Troll",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Rot+Tosser",
+            "score": "5",
+            "link": "Rot+Tosser.png"
+        },
+        {
+            "name": "Swallow",
+            "score": "5",
+            "link": "Swallow.png"
+        },
+        {
+            "name": "Petri's+Philter",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Shrike",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ointment",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Doppler",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vicovaro+Novice",
+            "score": "4",
+            "link": "Vicovaro+Novice.png"
+        },
+        {
+            "name": "Emissary",
+            "score": "4",
+            "link": "Emissary.png"
+        },
+        {
+            "name": "Heymaey+Herbalist",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Werecat",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Lamia",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reinforced+Ballista",
+            "score": "4",
+            "link": "Reinforced+Ballista.png"
+        },
+        {
+            "name": "Mahakam+Marauder",
+            "score": "4",
+            "link": "Mahakam+Marauder.png"
+        },
+        {
+            "name": "Redanian+Elite",
+            "score": "4",
+            "link": "Redanian+Elite.png"
+        },
+        {
+            "name": "Raging+Berserker",
+            "score": "4",
+            "link": "Raging+Berserker.png"
+        },
+        {
+            "name": "Drummond+Warmonger",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "An+Craite+Greatsword",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Berserker+Marauder",
+            "score": "4",
+            "link": "Berserker+Marauder.png"
+        },
+        {
+            "name": "Heymaey+Skald",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ancient+Foglet",
+            "score": "4",
+            "link": "Ancient+Foglet.png"
+        },
+        {
+            "name": "Wild+Hunt+Rider",
+            "score": "4",
+            "link": "Wild+Hunt+Rider.png"
+        },
+        {
+            "name": "Infiltrator",
+            "score": "4",
+            "link": "Infiltrator.png"
+        },
+        {
+            "name": "Dimun+Smuggler",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alpha+Werewolf",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Bloody+Flail",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Mardroeme",
+            "score": "4",
+            "link": "Mardroeme.png"
+        },
+        {
+            "name": "Cursed+Knight",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Wyvern+Scale+Shield",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Lacerate",
+            "score": "3",
+            "link": "Lacerate.png"
+        },
+        {
+            "name": "Arachas+Venom",
+            "score": "3",
+            "link": "Arachas+Venom.png"
+        },
+        {
+            "name": "Crow's+Eye",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Golden+Froth",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Magne+Division",
+            "score": "3",
+            "link": "Magne+Division.png"
+        },
+        {
+            "name": "Slave+Infantry",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ice+Troll",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ballista",
+            "score": "3",
+            "link": "Ballista.png"
+        },
+        {
+            "name": "Trebuchet",
+            "score": "3",
+            "link": "Trebuchet.png"
+        },
+        {
+            "name": "Werewolf",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Field+Medic",
+            "score": "3",
+            "link": "Field+Medic.png"
+        },
+        {
+            "name": "Kaedweni+Cavalry",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Arachas+Behemoth",
+            "score": "3",
+            "link": "Arachas+Behemoth.png"
+        },
+        {
+            "name": "Tuirseach+Skirmisher",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Rotfiend",
+            "score": "3",
+            "link": "Rotfiend.png"
+        },
+        {
+            "name": "Sentry",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Griffin",
+            "score": "3",
+            "link": "Griffin.png"
+        },
+        {
+            "name": "Ban+Ard+Tutor",
+            "score": "3",
+            "link": "Ban+Ard+Tutor.png"
+        },
+        {
+            "name": "Mastercrafted+Spear",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ambassador",
+            "score": "3",
+            "link": "Ambassador.png"
+        },
+        {
+            "name": "Stammelford's+Tremor",
+            "score": "2",
+            "link": "Stammelford's+Tremor.png"
+        },
+        {
+            "name": "Biting+Frost",
+            "score": "2",
+            "link": "Biting+Frost.png"
+        },
+        {
+            "name": "Impenetrable+Fog",
+            "score": "2",
+            "link": "Impenetrable+Fog.png"
+        },
+        {
+            "name": "Torrential+Rain",
+            "score": "2",
+            "link": "Torrential+Rain.png"
+        },
+        {
+            "name": "Bloodcurdling+Roar",
+            "score": "2",
+            "link": "Bloodcurdling+Roar.png"
+        },
+        {
+            "name": "Bone+Talisman",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Crushing+Trap",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Rock+Barrage",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Spores",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Peasant+Militia",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dwarven+Agitator",
+            "score": "2",
+            "link": "Dwarven+Agitator.png"
+        },
+        {
+            "name": "Heymaey+Protector",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Aretuza+Adept",
+            "score": "2",
+            "link": "Aretuza+Adept.png"
+        },
+        {
+            "name": "Foglet",
+            "score": "2",
+            "link": "Foglet.png"
+        },
+        {
+            "name": "Wild+Hunt+Hound",
+            "score": "2",
+            "link": "Wild+Hunt+Hound.png"
+        },
+        {
+            "name": "An+Craite+Raider",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Kaedweni+Revenant",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nauzicaa+Brigade",
+            "score": "2",
+            "link": "Nauzicaa+Brigade.png"
+        },
+        {
+            "name": "Siege+Master",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ice+Giant",
+            "score": "2",
+            "link": "Ice+Giant.png"
+        },
+        {
+            "name": "D'ao",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Celaeno+Harpy",
+            "score": "2",
+            "link": "Celaeno+Harpy.png"
+        },
+        {
+            "name": "Vran+Warrior",
+            "score": "2",
+            "link": "Vran+Warrior.png"
+        },
+        {
+            "name": "Tuirseach+Axeman",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Impera+Enforcer",
+            "score": "2",
+            "link": "Impera+Enforcer.png"
+        },
+        {
+            "name": "An+Craite+Longship",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Mangonel",
+            "score": "2",
+            "link": "Mangonel.png"
+        },
+        {
+            "name": "Tuirseach+Veteran",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Forktail",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nekker+Warrior",
+            "score": "2",
+            "link": "Nekker+Warrior.png"
+        },
+        {
+            "name": "Witch+Hunter",
+            "score": "2",
+            "link": "Witch+Hunter.png"
+        },
+        {
+            "name": "Adrenaline+Rush",
+            "score": "1",
+            "link": "Adrenaline+Rush.png"
+        },
+        {
+            "name": "Epidemic",
+            "score": "1",
+            "link": "Epidemic.png"
+        },
+        {
+            "name": "Dimeritium+Shackles",
+            "score": "1",
+            "link": "Dimeritium+Shackles.png"
+        },
+        {
+            "name": "Moonlight",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reaver+Scout",
+            "score": "1",
+            "link": "Reaver+Scout.png"
+        },
+        {
+            "name": "Dimun+Pirate+Captain",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Venendal+Elite",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dol+Blathanna+Sentry",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Heymaey+Spearmaiden",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Slyzard",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Blue+Stripe+Scout",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Blue+Stripe+Commando",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Temerian+Infantry",
+            "score": "1",
+            "link": "Temerian+Infantry.png"
+        },
+        {
+            "name": "Arachas+Drone",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Imperial+Golem",
+            "score": "1",
+            "link": "Imperial+Golem.png"
+        },
+        {
+            "name": "Blue+Mountain+Elite",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Drummond+Shieldmaid",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Alba+Pikeman",
+            "score": "1",
+            "link": "Alba+Pikeman.png"
+        },
+        {
+            "name": "Wild+Hunt+Navigator",
+            "score": "1",
+            "link": "Wild+Hunt+Navigator.png"
+        },
+        {
+            "name": "Mahakam+Volunteers",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dun+Banner",
+            "score": "1",
+            "link": "Dun+Banner.png"
+        },
+        {
+            "name": "Nekker",
+            "score": "1",
+            "link": "Nekker.png"
+        },
+        {
+            "name": "Harpy",
+            "score": "1",
+            "link": "Harpy.png"
+        },
+        {
+            "name": "Drummond+Queensguard",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Daerlan+Soldier",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Siren",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Damned+Sorceress",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Spotter",
+            "score": "1",
+            "link": "Spotter.png"
+        },
+        {
+            "name": "Viper+Witcher",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reaver+Hunter",
+            "score": "1",
+            "link": "Reaver+Hunter.png"
+        },
+        {
+            "name": "Vrihedd+Vanguard",
+            "score": "1",
+            "link": "Vrihedd+Vanguard.png"
+        },
+        {
+            "name": "Impera+Brigade",
+            "score": "1",
+            "link": "Impera+Brigade.png"
+        },
+        {
+            "name": "Wild+Hunt+Drakkar",
+            "score": "1",
+            "link": "netural.png"
+        }
+    ],
+    "silver": [
+        {
+            "name": "Olgierd+von+Everec",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Morkvarg",
+            "score": "10",
+            "link": "Morkvarg.png"
+        },
+        {
+            "name": "Roach",
+            "score": "10",
+            "link": "Roach.png"
+        },
+        {
+            "name": "Dethmold",
+            "score": "9",
+            "link": "Dethmold.png"
+        },
+        {
+            "name": "Ida+Emean+aep+Sivney",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Joachim+de+Wett",
+            "score": "9",
+            "link": "Joachim+de+Wett.png"
+        },
+        {
+            "name": "Toad+Prince",
+            "score": "9",
+            "link": "Toad+Prince.png"
+        },
+        {
+            "name": "Ozzrel",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "The+Last+Wish",
+            "score": "8",
+            "link": "The+Last+Wish.png"
+        },
+        {
+            "name": "Alzur's+Double+Cross",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Reinforcements",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Monster's+Nest",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Abaya",
+            "score": "8",
+            "link": "Abaya.png"
+        },
+        {
+            "name": "Vanhemar",
+            "score": "8",
+            "link": "Vanhemar.png"
+        },
+        {
+            "name": "Cynthia",
+            "score": "8",
+            "link": "Cynthia.png"
+        },
+        {
+            "name": "Malena",
+            "score": "8",
+            "link": "Malena.png"
+        },
+        {
+            "name": "Prince+Stennis",
+            "score": "8",
+            "link": "Prince+Stennis.png"
+        },
+        {
+            "name": "Vaedarmakar",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Striga",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Decoy",
+            "score": "7",
+            "link": "Decoy.png"
+        },
+        {
+            "name": "Garrison",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Marching+Orders",
+            "score": "7",
+            "link": "Marching+Orders.png"
+        },
+        {
+            "name": "Gremist",
+            "score": "7",
+            "link": "Gremist.png"
+        },
+        {
+            "name": "Pavko+Gale",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Peter+Saar+Gwynleve",
+            "score": "7",
+            "link": "Peter+Saar+Gwynleve.png"
+        },
+        {
+            "name": "Champion+of+Hov",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Golyat",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Germain+Piquant",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ves",
+            "score": "7",
+            "link": "Ves.png"
+        },
+        {
+            "name": "Vrygheff",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Toruviel",
+            "score": "7",
+            "link": "Toruviel.png"
+        },
+        {
+            "name": "Cleaver",
+            "score": "7",
+            "link": "Cleaver.png"
+        },
+        {
+            "name": "Skjall",
+            "score": "7",
+            "link": "Skjall.png"
+        },
+        {
+            "name": "Nature's+Gift",
+            "score": "6",
+            "link": "Nature's+Gift.png"
+        },
+        {
+            "name": "Ifrit",
+            "score": "6",
+            "link": "Ifrit.png"
+        },
+        {
+            "name": "Commander's+Horn",
+            "score": "6",
+            "link": "Commander's+Horn.png"
+        },
+        {
+            "name": "Scorch",
+            "score": "6",
+            "link": "Scorch.png"
+        },
+        {
+            "name": "Summoning+Circle",
+            "score": "6",
+            "link": "Summoning+Circle.png"
+        },
+        {
+            "name": "Serrit",
+            "score": "6",
+            "link": "Serrit.png"
+        },
+        {
+            "name": "Mandrake",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Expired+Ale",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dazhbog+Runestone",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Glorious+Hunt",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ceallach+Dyffryn",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sile+de+Tansarville",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Morvudd",
+            "score": "6",
+            "link": "Morvudd.png"
+        },
+        {
+            "name": "Myrgtabrakke",
+            "score": "6",
+            "link": "Myrgtabrakke.png"
+        },
+        {
+            "name": "Ronvid+the+Incessant",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Barclay+Els",
+            "score": "6",
+            "link": "Barclay+Els.png"
+        },
+        {
+            "name": "Vandergrift's+Blade",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ornamental+Sword",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Stribog+Runestone",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Zoria+Runestone",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Morana+Runestone",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Bekker's+Rockslide",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Iris+von+Everec",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Margarita+of+Aretuza",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Braenn",
+            "score": "5",
+            "link": "Braenn.png"
+        },
+        {
+            "name": "Nithral",
+            "score": "5",
+            "link": "Nithral.png"
+        },
+        {
+            "name": "Jotunn",
+            "score": "5",
+            "link": "Jotunn.png"
+        },
+        {
+            "name": "Cyprian+Wiley",
+            "score": "5",
+            "link": "Cyprian+Wiley.png"
+        },
+        {
+            "name": "Hefty+Helge",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Djenge+Frett",
+            "score": "5",
+            "link": "Djenge+Frett.png"
+        },
+        {
+            "name": "Sarah",
+            "score": "5",
+            "link": "Sarah.png"
+        },
+        {
+            "name": "Trollololo",
+            "score": "5",
+            "link": "Trollololo.png"
+        },
+        {
+            "name": "The+Guardian",
+            "score": "5",
+            "link": "The+Guardian.png"
+        },
+        {
+            "name": "Imperial+Manticore",
+            "score": "5",
+            "link": "Imperial+Manticore.png"
+        },
+        {
+            "name": "Milaen",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nekurat",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vreemde",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Manticore+Venom",
+            "score": "4",
+            "link": "Manticore+Venom.png"
+        },
+        {
+            "name": "Bekker's+Dark+Mirror",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Mahakam+Horn",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Parasite",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Black+Blood",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nilfgaardian+Gate",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dudu",
+            "score": "4",
+            "link": "Dudu.png"
+        },
+        {
+            "name": "Holger+Blackhand",
+            "score": "4",
+            "link": "Holger+Blackhand.png"
+        },
+        {
+            "name": "Derran",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ciaran+aep+Easnillen",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sheldon+Skaggs",
+            "score": "4",
+            "link": "Sheldon+Skaggs.png"
+        },
+        {
+            "name": "Blueboy+Lugos",
+            "score": "4",
+            "link": "Blueboy+Lugos.png"
+        },
+        {
+            "name": "Ele'yas",
+            "score": "4",
+            "link": "Ele'yas.png"
+        },
+        {
+            "name": "Foltest's+Pride",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Assire+var+Anahid",
+            "score": "4",
+            "link": "Assire+var+Anahid.png"
+        },
+        {
+            "name": "Jutta+an+Dimun",
+            "score": "4",
+            "link": "Jutta+an+Dimun.png"
+        },
+        {
+            "name": "Iris'+Companions",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Botchling",
+            "score": "3",
+            "link": "Botchling.png"
+        },
+        {
+            "name": "Merigold's+Hailstorm",
+            "score": "3",
+            "link": "Merigold's+Hailstorm.png"
+        },
+        {
+            "name": "Skellige+Storm",
+            "score": "3",
+            "link": "Skellige+Storm.png"
+        },
+        {
+            "name": "White+Frost",
+            "score": "3",
+            "link": "White+Frost.png"
+        },
+        {
+            "name": "Artefact+Compression",
+            "score": "3",
+            "link": "Artefact+Compression.png"
+        },
+        {
+            "name": "Devana+Runestone",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Mourntart",
+            "score": "3",
+            "link": "Mourntart.png"
+        },
+        {
+            "name": "King+of+Beggars",
+            "score": "3",
+            "link": "King+of+Beggars.png"
+        },
+        {
+            "name": "Yoana",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Auckes",
+            "score": "3",
+            "link": "Auckes.png"
+        },
+        {
+            "name": "Odrin",
+            "score": "3",
+            "link": "Odrin.png"
+        },
+        {
+            "name": "Morenn",
+            "score": "3",
+            "link": "Morenn.png"
+        },
+        {
+            "name": "Yarpen+Zigrin",
+            "score": "3",
+            "link": "Yarpen+Zigrin.png"
+        },
+        {
+            "name": "Donar+an+Hindar",
+            "score": "3",
+            "link": "Donar+an+Hindar.png"
+        },
+        {
+            "name": "Giant+Boar",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Svanrige+Tuirseach",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vincent+Meis",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Albrich",
+            "score": "3",
+            "link": "Albrich.png"
+        },
+        {
+            "name": "Nivellen",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Stregobor",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Johnny",
+            "score": "3",
+            "link": "Johnny.png"
+        },
+        {
+            "name": "False+Ciri",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Treason",
+            "score": "2",
+            "link": "Treason.png"
+        },
+        {
+            "name": "Necromancy",
+            "score": "2",
+            "link": "Necromancy.png"
+        },
+        {
+            "name": "Pit+Trap",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Cadaverine",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dorregaray+of+Vole",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sigrdrifa",
+            "score": "2",
+            "link": "Sigrdrifa.png"
+        },
+        {
+            "name": "Eibhear+Hattori",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sabrina's+Specter",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Paulie+Dahlberg",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Harald+Houndsnout",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ocvist",
+            "score": "2",
+            "link": "Ocvist.png"
+        },
+        {
+            "name": "Dennis+Cranmer",
+            "score": "2",
+            "link": "Dennis+Cranmer.png"
+        },
+        {
+            "name": "Ruehin",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sweers",
+            "score": "2",
+            "link": "Sweers.png"
+        },
+        {
+            "name": "Henry+var+Attre",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Nenneke",
+            "score": "2",
+            "link": "Nenneke.png"
+        },
+        {
+            "name": "Dimeritium+Bomb",
+            "score": "1",
+            "link": "Dimeritium+Bomb.png"
+        },
+        {
+            "name": "Restore",
+            "score": "1",
+            "link": "Restore.png"
+        },
+        {
+            "name": "Dragon's+Dream",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Prize-Winning+Cow",
+            "score": "1",
+            "link": "Prize-Winning+Cow.png"
+        },
+        {
+            "name": "Fringilla+Vigo",
+            "score": "1",
+            "link": "Fringilla+Vigo.png"
+        },
+        {
+            "name": "She-Troll+of+Vergen",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Sabrina+Glevissig",
+            "score": "1",
+            "link": "Sabrina+Glevissig.png"
+        },
+        {
+            "name": "Princess+Pavetta",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Maerolorn",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Lambert",
+            "score": "1",
+            "link": "Lambert.png"
+        },
+        {
+            "name": "Operator",
+            "score": "1",
+            "link": "Operator.png"
+        },
+        {
+            "name": "Lubberkin",
+            "score": "1",
+            "link": "Lubberkin.png"
+        },
+        {
+            "name": "Eskel",
+            "score": "1",
+            "link": "Eskel.png"
+        },
+        {
+            "name": "Whispess",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Weavess",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Aelirenn",
+            "score": "1",
+            "link": "Aelirenn.png"
+        },
+        {
+            "name": "Draig+Bon-Dhu",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vesemir",
+            "score": "1",
+            "link": "Vesemir.png"
+        },
+        {
+            "name": "Hubert+Rejk",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Brewess",
+            "score": "1",
+            "link": "netural.png"
+        }
+    ],
+    "gold": [
+        {
+            "name": "Royal+Decree",
+            "score": "10",
+            "link": "Royal+Decree.png"
+        },
+        {
+            "name": "Shupe's+Day+Off",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Seltkirk+of+Gulet",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Aglais",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vilgefortz",
+            "score": "10",
+            "link": "Vilgefortz.png"
+        },
+        {
+            "name": "Dandelion:+Poet",
+            "score": "10",
+            "link": "netural.png"
+        },
+        {
+            "name": "Shani",
+            "score": "9",
+            "link": "Shani.png"
+        },
+        {
+            "name": "Caretaker",
+            "score": "9",
+            "link": "Caretaker.png"
+        },
+        {
+            "name": "Stefan+Skellen",
+            "score": "9",
+            "link": "Stefan+Skellen.png"
+        },
+        {
+            "name": "Sigismund+Dijkstra",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Isengrim:+Outlaw",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ge'els",
+            "score": "8",
+            "link": "Ge'els.png"
+        },
+        {
+            "name": "Cahir+Dyffryn",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Hym",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Renew",
+            "score": "8",
+            "link": "Renew.png"
+        },
+        {
+            "name": "Hanmarvyn's+Dream",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Draug",
+            "score": "7",
+            "link": "Draug.png"
+        },
+        {
+            "name": "Imlerith:+Sabbath",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Aguara:+True+Form",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Schirru",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Kayran",
+            "score": "7",
+            "link": "Kayran.png"
+        },
+        {
+            "name": "Keira+Metz",
+            "score": "7",
+            "link": "Keira+Metz.png"
+        },
+        {
+            "name": "Eskel:+Pathfinder",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Avallac'h:+Sage",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Madman+Lugos",
+            "score": "7",
+            "link": "Madman+Lugos.png"
+        },
+        {
+            "name": "Leo+Bonhart",
+            "score": "7",
+            "link": "Leo+Bonhart.png"
+        },
+        {
+            "name": "Uma's+Curse",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Muzzle",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Priscilla",
+            "score": "6",
+            "link": "Priscilla.png"
+        },
+        {
+            "name": "Kiyan",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Geralt:+Igni",
+            "score": "6",
+            "link": "Geralt:+Igni.png"
+        },
+        {
+            "name": "Aguara",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Zoltan:+Scoundrel",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Regis:+Higher+Vampire",
+            "score": "6",
+            "link": "Regis:+Higher+Vampire.png"
+        },
+        {
+            "name": "Shilard",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Hjalmar+an+Craite",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Iorveth",
+            "score": "6",
+            "link": "Iorveth.png"
+        },
+        {
+            "name": "Vabjorn",
+            "score": "6",
+            "link": "Vabjorn.png"
+        },
+        {
+            "name": "Assassination",
+            "score": "5",
+            "link": "Assassination.png"
+        },
+        {
+            "name": "Coral",
+            "score": "5",
+            "link": "Coral.png"
+        },
+        {
+            "name": "Letho:+Kingslayer",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Geralt:+Aard",
+            "score": "5",
+            "link": "Geralt:+Aard.png"
+        },
+        {
+            "name": "Birna+Bran",
+            "score": "5",
+            "link": "Birna+Bran.png"
+        },
+        {
+            "name": "Vandergrift",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Zoltan+Chivay",
+            "score": "5",
+            "link": "Zoltan+Chivay.png"
+        },
+        {
+            "name": "Triss+Merigold",
+            "score": "5",
+            "link": "Triss+Merigold.png"
+        },
+        {
+            "name": "Villentretenmerth",
+            "score": "5",
+            "link": "Villentretenmerth.png"
+        },
+        {
+            "name": "Yennefer:+Conjurer",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Old+Speartip",
+            "score": "5",
+            "link": "Old+Speartip.png"
+        },
+        {
+            "name": "Ale+of+the+Ancestors",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Geralt+of+Rivia",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ermion",
+            "score": "5",
+            "link": "Ermion.png"
+        },
+        {
+            "name": "Sihil",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Philippa+Eilhart",
+            "score": "4",
+            "link": "Philippa+Eilhart.png"
+        },
+        {
+            "name": "Iorveth:+Meditation",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Vernon+Roche",
+            "score": "4",
+            "link": "Vernon+Roche.png"
+        },
+        {
+            "name": "Yennefer",
+            "score": "4",
+            "link": "Yennefer.png"
+        },
+        {
+            "name": "John+Natalis",
+            "score": "4",
+            "link": "John+Natalis.png"
+        },
+        {
+            "name": "Ulfhedinn",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Menno+Coehoorn",
+            "score": "4",
+            "link": "Menno+Coehoorn.png"
+        },
+        {
+            "name": "Lambert:+Swordmaster",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Imlerith",
+            "score": "4",
+            "link": "Imlerith.png"
+        },
+        {
+            "name": "Caranthir+ar-Feiniel",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dandelion",
+            "score": "4",
+            "link": "Dandelion.png"
+        },
+        {
+            "name": "Xarthisius",
+            "score": "4",
+            "link": "Xarthisius.png"
+        },
+        {
+            "name": "Triss:+Telekinesis",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ragh+Nar+Roog",
+            "score": "4",
+            "link": "Ragh+Nar+Roog.png"
+        },
+        {
+            "name": "Korathi+Heatwave",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Woodland+Spirit",
+            "score": "4",
+            "link": "Woodland+Spirit.png"
+        },
+        {
+            "name": "Tibor+Eggebracht",
+            "score": "3",
+            "link": "Tibor+Eggebracht.png"
+        },
+        {
+            "name": "Trial+of+the+Grasses",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Rainfarn+of+Attre",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Yennefer:+Enchantress",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Milva",
+            "score": "3",
+            "link": "Milva.png"
+        },
+        {
+            "name": "Vesemir:+Mentor",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Isengrim+Faoiltairna",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Triss:+Butterflies",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Avallac'h",
+            "score": "3",
+            "link": "Avallac'h.png"
+        },
+        {
+            "name": "Wild+Boar+of+the+Sea",
+            "score": "3",
+            "link": "Wild+Boar+of+the+Sea.png"
+        },
+        {
+            "name": "Bloody+Baron",
+            "score": "3",
+            "link": "Bloody+Baron.png"
+        },
+        {
+            "name": "Saesenthessis",
+            "score": "3",
+            "link": "Saesenthessis.png"
+        },
+        {
+            "name": "Xavier+Moran",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ciri:+Dash",
+            "score": "3",
+            "link": "Ciri:+Dash.png"
+        },
+        {
+            "name": "Vattier+de+Rideaux",
+            "score": "3",
+            "link": "Vattier+de+Rideaux.png"
+        },
+        {
+            "name": "Saskia",
+            "score": "3",
+            "link": "Saskia.png"
+        },
+        {
+            "name": "Old+Speartip:+Asleep",
+            "score": "3",
+            "link": "Old+Speartip:+Asleep.png"
+        },
+        {
+            "name": "Olaf",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Yennefer:+Necromancer",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Geralt:+Professional",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Morenn:+Forest+Child",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Miruna",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dandelion:+Vainglory",
+            "score": "3",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ciri",
+            "score": "2",
+            "link": "Ciri.png"
+        },
+        {
+            "name": "Regis",
+            "score": "2",
+            "link": "Regis.png"
+        },
+        {
+            "name": "Brewess:+Ritual",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ithlinne+Aegli",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Phoenix",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Gaunter+O'Dimm",
+            "score": "2",
+            "link": "Gaunter+O'Dimm.png"
+        },
+        {
+            "name": "Cerys+an+Craite",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Whispess:+Tribute",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Geralt:+Yrden",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Saesenthessis:+Blaze",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Ihuarraquax",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Cerys:+Fearless",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Roche:+Merciless",
+            "score": "2",
+            "link": "netural.png"
+        },
+        {
+            "name": "Wolfsbane",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Kambi",
+            "score": "1",
+            "link": "Kambi.png"
+        },
+        {
+            "name": "Letho+of+Gulet",
+            "score": "1",
+            "link": "Letho+of+Gulet.png"
+        },
+        {
+            "name": "Ciri:+Nova",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Weavess:+Incantation",
+            "score": "1",
+            "link": "netural.png"
+        }
+    ],
+    "leader": [
+        {
+            "name": "Brouver+Hoog",
+            "score": "10",
+            "link": "Brouver+Hoog.png"
+        },
+        {
+            "name": "Usurper",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Jan+Calveit",
+            "score": "9",
+            "link": "netural.png"
+        },
+        {
+            "name": "Crach+an+Craite",
+            "score": "8",
+            "link": "Crach+an+Craite.png"
+        },
+        {
+            "name": "Eithne",
+            "score": "8",
+            "link": "netural.png"
+        },
+        {
+            "name": "Emhyr+var+Emreis",
+            "score": "8",
+            "link": "Emhyr+var+Emreis.png"
+        },
+        {
+            "name": "Francesca+Findabair",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Princess+Adda",
+            "score": "7",
+            "link": "netural.png"
+        },
+        {
+            "name": "Eredin+Breacc+Glas",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "King+Radovid+V",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Unseen+Elder",
+            "score": "6",
+            "link": "Unseen+Elder.png"
+        },
+        {
+            "name": "Whispering+Hillock",
+            "score": "6",
+            "link": "netural.png"
+        },
+        {
+            "name": "Eist+Tuirseach",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "Harald+the+Cripple",
+            "score": "5",
+            "link": "Harald+the+Cripple.png"
+        },
+        {
+            "name": "Filavandrel",
+            "score": "5",
+            "link": "netural.png"
+        },
+        {
+            "name": "King+Foltest",
+            "score": "4",
+            "link": "netural.png"
+        },
+        {
+            "name": "Dagon",
+            "score": "4",
+            "link": "Dagon.png"
+        },
+        {
+            "name": "Morvran+Voorhis",
+            "score": "2",
+            "link": "Morvran+Voorhis.png"
+        },
+        {
+            "name": "Bran+Tuirseach",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "King+Henselt",
+            "score": "1",
+            "link": "netural.png"
+        },
+        {
+            "name": "Arachas+Queen",
+            "score": "1",
+            "link": "netural.png"
+        }
+    ]
+}
