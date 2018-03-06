@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import cards from './../assets/json/AllCardsImg.json'
+import cards from './../assets/json/result.json'
 import CardType from './CardType'
 export default {
   data () {
