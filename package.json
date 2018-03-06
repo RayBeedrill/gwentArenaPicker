@@ -9,8 +9,10 @@
     "start": "npm run dev",
     "build": "node build/build.js"
   },
+  "main": "electron.js",
   "dependencies": {
     "bulma": "^0.6.2",
+    "electron": "^1.8.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
