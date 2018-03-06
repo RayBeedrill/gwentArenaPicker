@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <router-link to="/">All Cards</router-link>
+    <router-link to="/picker">Arena Picker</router-link>
     <router-view/>
   </div>
 </template>

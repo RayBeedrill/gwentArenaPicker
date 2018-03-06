@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <card v-bind:card-info="value" v-bind:key="key" v-for="(value, key) in cardsList[cardsType]"></card>
+  <div class="columns is-multiline">
+    <card v-if="cardType == 'bronse'" v-bind:card-info="value" v-bind:key="key" v-for="(value, key) in cardsList['bronse']"></card>
+    <card v-if="cardType == 'silver'" v-bind:card-info="value" v-bind:key="key" v-for="(value, key) in cardsList['silver']"></card>
+    <card v-if="cardType == 'gold'" v-bind:card-info="value" v-bind:key="key" v-for="(value, key) in cardsList['gold']"></card>
+    <card v-if="cardType == 'leader'" v-bind:card-info="value" v-bind:key="key" v-for="(value, key) in cardsList['leader']"></card>
   </div>
 </template>
 
